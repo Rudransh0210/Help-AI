@@ -63,6 +63,9 @@ ___
 8. Open `login.html` in your web browser to access the application.
 
 ---
+Here's our project demo video 
+
+https://youtu.be/Hj_Iqdz0p9s
 
 Thank you for using Help AI! 🌿
 
