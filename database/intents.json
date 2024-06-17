@@ -1,0 +1,1129 @@
+{
+    "intents": [{
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "Good morning",
+            "Good afternoon",
+            "Good evening",
+            "How are you?",
+            "What's up?",
+            "How's it going?",
+            "Is anyone there?",
+            "I need help",
+            "Can we talk?",
+            "I need someone to listen",
+            "I can't take it anymore",
+            "I'm feeling down",
+            "Is now a good time?",
+            "Can you help me?",
+            "I'm here",
+            "Anyone around?",
+            "I'm feeling overwhelmed"
+        ],
+        "responses": [
+            "Hello! How are you doing today?",
+            "Hi there, your friendly therapist here. How can I assist you today?",
+            "Hello! I'm here to listen. What's on your mind?",
+            "Good to see you! Let's begin today's session.",
+            "Hi! Is there something specific you want to talk about?",
+            "Hello, I’m here for you. How can I help you today?",
+            "Hey there! What’s going on? I’m here to listen.",
+            "Hi, your personal therapist here. Feel free to share anything.",
+            "Is there something you want to talk about? I'm here for you!",
+            "Do you want to talk about something?",
+            "I am here to help you, we can talk about your feelings.",
+            "Hey, I am your friend, your very own therapist! Feel free to talk about anything.",
+            "Hi, I am your personal therapist! Let's talk :)"
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Goodbye! This was helpful!",
+            "Bye",
+            "byebye",
+            "I have to go",
+            "I should go, thanks for talking.",
+            "Goodbye",
+            "Talk to you later",
+            "See you next time",
+            "Thanks, I have to leave now",
+            "Catch you later",
+            "I'm logging off",
+            "I need to leave now"
+        ],
+        "responses": [
+            "Goodbye, I hope you will take better care of yourself. Looking forward to our next session.",
+            "I hope Bubble the Therapist was helpful to you! Let's talk soon!",
+            "See you later, don't forget what we talked about today! I hope you feel better after talking to me!",
+            "I hope you feel better after talking! Take care of yourself, and remember to check in soon!",
+            "Goodbye, hope you have a good day ahead :)",
+            "Take care, and remember I'm here whenever you need to talk.",
+            "Goodbye! Don't hesitate to reach out if you need anything.",
+            "See you next time! Remember to be kind to yourself.",
+            "Take care, and talk to you soon!"
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "bad",
+        "patterns": [
+            "I can't help but feel like a failure",
+            "I am sad",
+            "I am struggling a lot in my daily life",
+            "I hate my life",
+            "I think I might be depressed",
+            "I am not doing so great",
+            "I am not good",
+            "I am not well",
+            "I have been feeling down lately",
+            "I do not feel good these days",
+            "I just feel so stuck these days",
+            "I feel worthless, I do not know what to do",
+            "Sometimes I get sad for no particular reason, my energy just drops and I lose motivation to do anything",
+            "I feel empty",
+            "Life feels meaningless",
+            "I'm overwhelmed",
+            "Everything seems pointless",
+            "I feel so alone",
+            "I'm constantly anxious",
+            "I can't find joy in anything"
+        ],
+        "responses": [
+            "I'm really sorry you're feeling this way. It's completely normal to feel low sometimes, and acknowledging your feelings is an important first step. Have you tried getting enough sleep? It can significantly impact how you think and feel. Additionally, try to identify what is going well in your life and find things to be grateful for. Even small things can make a difference.",
+            "You sound like you have a lot on your mind. Opening up about your struggles is a brave step. Feeling worthless and having trouble sleeping are significant issues that deserve attention. Consider seeking counseling; having someone to listen to you can be very helpful. You deserve to feel better.",
+            "It sounds like you're feeling lost. Starting a journal can help you understand your emotions better. Writing down your thoughts and feelings can provide clarity and relief.",
+            "You don't have to go through this alone. Reaching out for help is a sign of strength. Consider talking to a professional who can support you through this. You can get through this!",
+            "It's okay to feel down sometimes. Remember, you're not alone. Many people go through tough times, and seeking support can make a big difference. Have you considered talking to a friend or a loved one about how you're feeling?",
+            "Feeling stuck can be really tough. Try to focus on small steps you can take each day to feel better. Sometimes even a short walk or a brief moment of mindfulness can help.",
+            "I'm here to listen and support you. Sometimes, sharing your feelings can provide a sense of relief. What you're going through is valid, and it's important to take care of yourself during these times.",
+            "It's important to take care of your mental health. Consider reaching out to a therapist or counselor who can provide professional support. You deserve to feel better and have a fulfilling life."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "extreme",
+        "patterns": [
+            "I cannot talk to anyone. I have attempted suicide before. I need help",
+            "I have suicidal thoughts and tendencies",
+            "I hate myself, I do not want to exist anymore",
+            "I am depressed, I do not wish to live anymore",
+            "I have no one in my life that I can talk to, I cannot live like this",
+            "I feel worthless all the time. Sometimes I want to end it all",
+            "It feels like the world has come down crumbling around me. I feel helpless",
+            "I feel nothingness in my soul, I have no reason to live",
+            "Suicide",
+            "Every day is the same, I feel like I cannot come out of this hole I am in. I want to end it all",
+            "I am not capable of love, I am severely depressed",
+            "I can't see a way out",
+            "No one understands me, I want to disappear",
+            "Life feels pointless, I don't want to continue",
+            "I feel trapped and hopeless",
+            "I've lost all hope and motivation to live",
+            "The pain is too much to bear, I want to end it",
+            "I can't cope with this anymore, I want to die",
+            "Every day is a struggle, I see no reason to go on",
+            "I feel completely alone and empty",
+            "I've been thinking about ending my life",
+            "I have no reason to live, I feel utterly hopeless",
+            "The future looks bleak, I just want it all to end",
+            "I'm overwhelmed by sadness and despair",
+            "I feel like a burden to everyone, I don't want to be here anymore",
+            "I can't find any joy in life, I want to end it",
+            "I feel like I'm drowning in darkness",
+            "I'm tired of pretending, I want it all to be over",
+            "I can't take this pain anymore, I want to die"
+        ],
+        "responses": [
+            "I'm really sorry you're feeling this way, but I'm not equipped to help. It's crucial that you reach out to a mental health professional or a trusted person in your life. Please consider calling a crisis helpline immediately.",
+            "Please understand that you are not alone and it is not too late to seek help. You need immediate professional attention. Here are some resources you can contact right now: \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)",
+            "I'm very sorry that you're feeling this way. It's very important to talk to a professional who can help you navigate through these feelings. Here are some resources: \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)",
+            "It sounds like you're going through an incredibly tough time. Please, reach out to a mental health professional or a crisis helpline immediately. You do not have to go through this alone. \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)",
+            "I'm really sorry you're feeling this way. It's important to seek help immediately from a professional who can offer you the support you need. Here are some urgent resources: \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)",
+            "Listen friend, whatever you're going through, there is help available. Reaching out to a professional can make a huge difference. Here are some resources you can contact right now: \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)",
+            "I'm really sorry you're feeling this way. You deserve to get help and support right now. Please reach out to one of these resources: \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)",
+            "Your feelings are valid and it's important to get help. Talking to a professional can provide you with the support you need. Please consider contacting these resources immediately: \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)",
+            "It's very important to talk to someone who can help you through this. Please reach out to a crisis helpline or a mental health professional. Here are some resources: \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)",
+            "I'm really sorry to hear that you're feeling this way. Please reach out to a professional for immediate support. Here are some resources: \n\n1. **Suicide Helpline India:** 9152987821\n2. **Help centers for different states:** [Aasra Info](http://www.aasra.info/helpline.html)\n3. **Suicide prevention information:** [WHO Suicide Prevention](https://www.who.int/health-topics/suicide#tab=tab_1)"
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "good",
+        "patterns": [
+            "I feel happy!",
+            "I am better than before!",
+            "I am happy!",
+            "I feel good these days",
+            "Today was a good day",
+            "I have found a new light in my life",
+            "I feel like I have a new purpose in life!",
+            "I am feeling great!",
+            "I am in a good mood today",
+            "Things are looking up for me",
+            "I feel joyful",
+            "I am full of energy",
+            "I feel content",
+            "Life is good",
+            "I feel at peace",
+            "I have been smiling a lot lately"
+        ],
+        "responses": [
+            "Wow, that is fantastic! I'm so glad to hear that you're feeling happy and positive. It sounds like our sessions are really making a difference. Keep up the great work!"
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "quotes",
+        "patterns": [
+            "Make me happy",
+            "Cheer me up",
+            "I need to change my mood",
+            "Tell me something",
+            "Tell me some good quotes",
+            "Need some positivity",
+            "Need to hear something good",
+            "I need to cheer up",
+            "Give me a positive quote",
+            "Share some uplifting words",
+            "I need some inspiration",
+            "Brighten my day",
+            "Help me feel better",
+            "I need a mood boost",
+            "Tell me something positive"
+        ],
+        "responses": [
+            "'There is love, there is music, there is no limit, there is work, there is the precious sense that this is the hour of grace when all things gather and distill to create the rest of my life. I don’t believe in God, I believe in everything.'",
+            "'Tomorrow is always fresh, with no mistakes in it yet.'",
+            "'Today will be better. Not because the world has dealt you better cards, but because you choose to use them to your advantage. Today, you choose happiness.'",
+            "'Happiness is not something ready made. It comes from your own actions.'",
+            "'Happiness can be found, even in the darkest of times, if only one remembers to turn on the light.'",
+            "'Imagine walking over a ray of sunshine. Everything is warm and full of light and there is a smile, not on your lips, but rather deep inside of you. There is no past or future, time doesn't exist. You feel like you are becoming one with the sun. You're walking through infinity, one step at a time. Turns out happiness was always a part of you, you just had to allow it to break through. And freedom, freedom was just one tiny step in front of you.'",
+            "'So far, you have made it through all of your worst days. Well done, Keep going friend!'",
+            "'To be kind to all, to like many and love a few, to be needed and wanted by those we love, is certainly the nearest we can come to happiness.'",
+            "'If happiness visits you again, do not remember its previous betrayal. Enter into the happiness and burst.'",
+            "'I had the epiphany that laughter was light, and light was laughter, and that this was the secret of the universe.'",
+            "'The best way to cheer yourself up is to try to cheer somebody else up.'",
+            "'Keep your face always toward the sunshine—and shadows will fall behind you.'",
+            "'Believe you can and you're halfway there.'",
+            "'Every day may not be good... but there's something good in every day.'",
+            "'Positive anything is better than negative nothing.'",
+            "'You are never too old to set another goal or to dream a new dream.'",
+            "'Start where you are. Use what you have. Do what you can.'"
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "loneliness",
+        "patterns": [
+            "I feel so alone",
+            "I don't have anyone to talk to",
+            "I'm lonely",
+            "Feeling isolated",
+            "Nobody understands me",
+            "I wish I had someone to talk to",
+            "It's hard being by myself",
+            "I feel disconnected from everyone",
+            "I feel like no one cares about me"
+        ],
+        "responses": [
+            "I'm here for you. Let's talk about what's on your mind.",
+            "You're not alone. I'm here to listen and support you.",
+            "It's okay to feel this way. I'm here to help you through it.",
+            "Loneliness can be tough, but you're not going through it alone.",
+            "Sometimes talking about it can make a big difference. I'm listening.",
+            "Remember, it's okay to reach out when you need to talk. I'm here for you.",
+            "You are important and your feelings matter. I'm here to listen without judgment.",
+            "You're stronger than you think. Let's work through this together.",
+            "You deserve to feel connected. I'm here to help you find that connection."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "stress_management",
+        "patterns": [
+            "I'm feeling overwhelmed",
+            "How can I manage stress?",
+            "I need stress relief techniques",
+            "Stress is getting to me",
+            "I feel stressed out",
+            "I am feeling stressed",
+            "What can I do to relax?",
+            "Feeling anxious and stressed",
+            "How do I deal with stress?",
+            "I'm under a lot of pressure",
+            "Ways to handle stress",
+            "I'm finding it hard to unwind"
+        ],
+        "responses": [
+            "I can help you with stress management techniques. Let's explore some together.",
+            "It's important to find healthy ways to cope with stress. Let's discuss some strategies.",
+            "Taking breaks and deep breaths can help manage stress levels effectively.",
+            "Engaging in activities like meditation or yoga can reduce stress and promote relaxation.",
+            "Setting realistic goals and priorities can help in managing stress more effectively.",
+            "Regular exercise is a great way to relieve stress and improve your mood.",
+            "Making time for hobbies and activities you enjoy can provide stress relief.",
+            "Connecting with friends and loved ones can offer emotional support during stressful times.",
+            "Practicing mindfulness and staying present can help reduce stress and anxiety.",
+            "Getting enough sleep is crucial for managing stress and maintaining overall well-being."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "self_esteem",
+        "patterns": [
+            "I struggle with self-esteem",
+            "How can I improve my self-worth?",
+            "I don't feel good about myself",
+            "My self-esteem is low",
+            "I lack confidence",
+            "I'm always comparing myself to others",
+            "I feel insecure about myself",
+            "I need help boosting my self-esteem",
+            "What can I do to feel better about myself?",
+            "I'm not happy with who I am"
+        ],
+        "responses": [
+            "Working on self-esteem is crucial for mental well-being. Let's discuss strategies to boost your self-worth.",
+            "You deserve to feel good about yourself. Let's explore ways to improve your self-esteem.",
+            "Start by practicing self-compassion and being kind to yourself.",
+            "Focus on your strengths and accomplishments rather than comparing yourself to others.",
+            "Setting realistic goals and celebrating your progress can help build self-esteem.",
+            "Surround yourself with supportive people who uplift and encourage you.",
+            "Challenge negative thoughts and replace them with positive affirmations.",
+            "Engage in activities that you enjoy and that make you feel confident.",
+            "Learning new skills and taking on challenges can boost your self-confidence.",
+            "Seek professional support if needed. Talking to a therapist can be beneficial for improving self-esteem."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "relationships",
+        "patterns": [
+            "I'm having problems in my relationship",
+            "How can I improve my relationships?",
+            "I feel disconnected from my loved ones",
+            "My relationship is struggling",
+            "I'm having issues with my partner",
+            "How do I build better relationships?",
+            "I feel distant from my friends",
+            "I'm having trouble communicating with my loved ones",
+            "How can I strengthen my connections with others?",
+            "I want to improve my relationship with my family"
+        ],
+        "responses": [
+            "Relationships can be challenging. Let's talk about what's going on and find ways to improve your connections.",
+            "Building healthy relationships is important. Let's explore ways to strengthen your connections with others.",
+            "Open and honest communication is key to resolving relationship issues.",
+            "Spending quality time together can help improve your bond with loved ones.",
+            "It's important to listen actively and understand the perspectives of others in a relationship.",
+            "Setting boundaries and respecting each other's space can lead to healthier relationships.",
+            "Expressing appreciation and gratitude can strengthen your relationships.",
+            "Working through conflicts constructively can improve relationship dynamics.",
+            "Seeking support from a counselor or therapist can provide valuable insights for improving relationships.",
+            "Fostering empathy and compassion towards each other can enhance your connections."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "anxiety",
+        "patterns": [
+            "I'm feeling anxious",
+            "How can I cope with anxiety?",
+            "I have anxiety issues",
+            "I'm constantly worried",
+            "I feel nervous all the time",
+            "How do I deal with anxiety?",
+            "I'm struggling with anxiety",
+            "What can I do to manage my anxiety?",
+            "I feel overwhelmed with anxiety",
+            "I need help with my anxiety"
+        ],
+        "responses": [
+            "Dealing with anxiety can be tough. Let's discuss techniques to manage and reduce anxiety.",
+            "You're not alone in this. I'm here to help you navigate through your anxiety.",
+            "Practicing deep breathing exercises can help calm your mind and reduce anxiety.",
+            "Engaging in regular physical activity can be an effective way to manage anxiety.",
+            "Mindfulness and meditation can help you stay grounded and reduce anxious thoughts.",
+            "It's important to identify and challenge negative thought patterns that contribute to anxiety.",
+            "Maintaining a healthy lifestyle, including proper sleep and nutrition, can impact anxiety levels.",
+            "Connecting with supportive friends and family can provide emotional relief from anxiety.",
+            "Journaling your thoughts and feelings can be a therapeutic way to manage anxiety.",
+            "If needed, seeking professional help from a therapist can provide tailored strategies for managing anxiety."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "motivation",
+        "patterns": [
+            "I lack motivation",
+            "How can I find motivation?",
+            "I feel unmotivated",
+            "I can't get motivated",
+            "I'm struggling to find motivation",
+            "What can I do to motivate myself?",
+            "I need a motivation boost",
+            "I'm feeling lazy",
+            "How do I get my drive back?",
+            "I need help staying motivated"
+        ],
+        "responses": [
+            "Finding motivation can be a challenge. Let's explore ways to reignite your passion and drive.",
+            "We all have moments of low motivation. Let's work together to find ways to boost yours.",
+            "Setting small, achievable goals can help you build momentum and stay motivated.",
+            "Remember why you started. Reflecting on your reasons can reignite your motivation.",
+            "Creating a structured routine can provide a sense of purpose and help maintain motivation.",
+            "Taking breaks and practicing self-care can prevent burnout and keep you motivated.",
+            "Surround yourself with positive influences and people who inspire you.",
+            "Rewarding yourself for small accomplishments can help maintain your motivation.",
+            "Visualizing your goals and the steps to achieve them can provide clarity and motivation.",
+            "Staying organized and breaking tasks into manageable steps can make them less overwhelming and more motivating."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "self_care",
+        "patterns": [
+            "How can I practice self-care?",
+            "I need self-care tips",
+            "What are some self-care activities?",
+            "How do I take care of myself?",
+            "I need to focus on self-care",
+            "What can I do for self-care?",
+            "I want to prioritize self-care",
+            "Give me some self-care ideas",
+            "How do I start a self-care routine?",
+            "I need to improve my self-care habits"
+        ],
+        "responses": [
+            "Self-care is important for your well-being. Let's explore personalized self-care practices for you.",
+            "Taking care of yourself is crucial. Let's discuss self-care activities that suit your needs.",
+            "Simple activities like taking a walk, reading a book, or listening to music can be great for self-care.",
+            "Practicing mindfulness and meditation can help reduce stress and improve well-being.",
+            "Make sure to get enough sleep and eat nutritious meals as part of your self-care routine.",
+            "Engaging in hobbies and activities you enjoy can be a wonderful form of self-care.",
+            "Setting aside time each day for yourself, even if it's just a few minutes, is essential.",
+            "Journaling your thoughts and feelings can be a therapeutic self-care activity.",
+            "Connecting with friends and loved ones can provide emotional support and enhance your self-care.",
+            "Remember, self-care isn't selfish. It's necessary for maintaining your mental and physical health."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "trauma",
+        "patterns": [
+            "I've experienced trauma",
+            "How can I cope with trauma?",
+            "I need help with past traumas",
+            "I'm struggling with traumatic experiences",
+            "How do I heal from trauma?",
+            "I have trauma from my past",
+            "I'm finding it hard to move past my trauma",
+            "What can I do to manage my trauma?",
+            "I need support for my trauma",
+            "Dealing with trauma is hard"
+        ],
+        "responses": [
+            "Dealing with trauma is a sensitive issue. I'm here to support you. Let's talk about your feelings and explore coping strategies.",
+            "I'm here to help you navigate through your past traumas. Let's discuss techniques to heal and find peace.",
+            "It's important to acknowledge your feelings. Let's explore healthy ways to express and process them.",
+            "Seeking professional help, such as therapy, can be a crucial step in healing from trauma.",
+            "Practicing mindfulness and grounding techniques can help manage trauma-related stress.",
+            "Connecting with supportive friends or support groups can provide a sense of community and understanding.",
+            "Journaling about your experiences and emotions can be a therapeutic way to cope with trauma.",
+            "Engaging in activities that bring you joy and relaxation can aid in the healing process.",
+            "Self-care is vital when dealing with trauma. Make sure to prioritize your physical and mental well-being.",
+            "Remember, healing from trauma is a journey. Take it one step at a time, and be patient with yourself."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "sleep",
+        "patterns": [
+            "I have trouble sleeping",
+            "How can I improve my sleep?",
+            "I suffer from insomnia",
+            "I can't fall asleep",
+            "I'm having sleepless nights",
+            "What can I do to sleep better?",
+            "I keep waking up at night",
+            "I need help with my sleep problems",
+            "Why can't I sleep?",
+            "My sleep is very restless"
+        ],
+        "responses": [
+            "Quality sleep is crucial for mental health. Let's explore strategies to improve your sleep patterns.",
+            "I understand how important sleep is. Let's discuss techniques to help you get better rest.",
+            "Establishing a consistent sleep schedule can help regulate your sleep patterns.",
+            "Creating a relaxing bedtime routine can signal your body that it's time to sleep.",
+            "Limiting screen time before bed can improve the quality of your sleep.",
+            "Make sure your sleep environment is comfortable and conducive to rest.",
+            "Practicing relaxation techniques such as deep breathing or meditation can help you fall asleep.",
+            "Avoiding caffeine and heavy meals close to bedtime can improve sleep quality.",
+            "Regular physical activity can help you fall asleep faster and enjoy deeper sleep.",
+            "If sleep problems persist, consider seeking advice from a healthcare professional."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "substance_abuse",
+        "patterns": [
+            "I'm struggling with substance abuse",
+            "How can I overcome addiction?",
+            "I need help with substance misuse",
+            "I have a problem with drugs",
+            "I can't stop drinking",
+            "How do I quit substance abuse?",
+            "I'm addicted and need help",
+            "What can I do about my addiction?",
+            "I'm dependent on alcohol",
+            "I want to recover from substance abuse"
+        ],
+        "responses": [
+            "Dealing with substance abuse is a serious matter. I'm here to support you in your journey towards recovery. Let's talk about it.",
+            "You're not alone in this. Let's discuss strategies and resources to help you overcome substance misuse.",
+            "Seeking professional help, such as counseling or rehab, can be a crucial step in overcoming addiction.",
+            "Building a strong support network of friends and family can provide the encouragement you need.",
+            "Engaging in healthy activities and hobbies can help take your mind off the substance.",
+            "Avoiding triggers and environments that encourage substance use is important for recovery.",
+            "Practicing mindfulness and stress-reduction techniques can help manage cravings.",
+            "Remember that recovery is a journey, and it's okay to take it one step at a time.",
+            "Connecting with support groups, like AA or NA, can provide valuable support from others who understand what you're going through.",
+            "Staying committed to your recovery plan and seeking help when needed can make a significant difference."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "body_image",
+        "patterns": [
+            "I have body image issues",
+            "How can I improve my body image?",
+            "I feel insecure about my appearance",
+            "I don't like the way I look",
+            "I'm unhappy with my body",
+            "I struggle with my body image",
+            "How do I boost my body confidence?",
+            "I feel self-conscious about my looks",
+            "I wish I looked different",
+            "What can I do to feel better about my body?"
+        ],
+        "responses": [
+            "Your feelings about your body are valid. Let's talk about ways to improve your body image and practice self-acceptance.",
+            "It's important to feel comfortable in your own skin. Let's explore techniques to boost your body image.",
+            "Focusing on your strengths and what your body can do can help improve your body image.",
+            "Practicing self-compassion and speaking kindly to yourself is crucial for body confidence.",
+            "Surrounding yourself with positive influences who celebrate diversity in body types can be helpful.",
+            "Engaging in activities that make you feel good about yourself, like exercise or hobbies, can boost your confidence.",
+            "Avoiding comparisons to others and recognizing your unique qualities is key to improving body image.",
+            "Wearing clothes that make you feel comfortable and confident can enhance your body image.",
+            "Remember, everyone has insecurities. Accepting and loving yourself as you are is a powerful step.",
+            "Seeking support from a therapist or support group can provide valuable guidance and encouragement."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "panic_attack",
+        "patterns": [
+            "I'm having a panic attack",
+            "How can I cope during a panic attack?",
+            "I suffer from panic attacks",
+            "What should I do during a panic attack?",
+            "I'm experiencing a panic attack",
+            "Help me, I'm having a panic attack",
+            "How do I calm down during a panic attack?",
+            "I need help with my panic attacks",
+            "I'm feeling panicked",
+            "What can I do when I have a panic attack?"
+        ],
+        "responses": [
+            "I'm here to help you through this. Try to focus on your breath. Take deep, slow breaths. You're not alone.",
+            "I'm here with you. Try to find a quiet, safe space. Take slow, deep breaths. You're going to be okay.",
+            "Focus on breathing slowly and deeply. Inhale for four seconds, hold for four, and exhale for four.",
+            "Try to ground yourself by focusing on your surroundings and naming three things you can see, hear, and feel.",
+            "Remember, this will pass. You're safe and I'm here with you.",
+            "Try to relax your muscles one by one, starting from your toes and working up to your head.",
+            "Counting slowly from 1 to 10 can help distract and calm your mind.",
+            "Splash some cold water on your face or hold a cold object to help bring your focus back.",
+            "If possible, talk to someone you trust who can provide comfort and reassurance.",
+            "Listening to calming music or a guided meditation can help ease the panic."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "anger_management",
+        "patterns": [
+            "I struggle with anger",
+            "How can I manage my anger?",
+            "I have anger issues",
+            "I can't control my anger",
+            "I'm always angry",
+            "How do I deal with my anger?",
+            "I get angry easily",
+            "What can I do to manage my anger?",
+            "I need help with my anger",
+            "I'm struggling with anger management"
+        ],
+        "responses": [
+            "Managing anger is important for your well-being. Let's discuss techniques to help you cope with and control your anger.",
+            "You're not alone in this. I'm here to support you in finding healthy ways to manage your anger.",
+            "Taking deep breaths and counting to ten can help you calm down in the moment.",
+            "Engaging in physical activity, like going for a walk or exercising, can help release built-up anger.",
+            "Practicing mindfulness and meditation can help you stay calm and centered.",
+            "Identifying and addressing the underlying causes of your anger can lead to better management.",
+            "Talking to a trusted friend or counselor can provide an outlet for your feelings.",
+            "Using 'I' statements to express your feelings can help prevent conflicts from escalating.",
+            "Taking a break and giving yourself time to cool down before responding can be effective.",
+            "Engaging in hobbies and activities you enjoy can provide a healthy outlet for your emotions.",
+            "Remember, it's okay to seek professional help if you feel overwhelmed by your anger."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "social_anxiety",
+        "patterns": [
+            "I have social anxiety",
+            "How can I cope with social situations?",
+            "I feel anxious around people",
+            "Social situations make me nervous",
+            "I'm uncomfortable in social settings",
+            "How do I manage social anxiety?",
+            "I avoid social gatherings",
+            "I'm scared of talking to people",
+            "What can I do about my social anxiety?",
+            "I feel anxious in groups"
+        ],
+        "responses": [
+            "Dealing with social anxiety can be challenging. I'm here to help. Let's talk about strategies to feel more comfortable in social situations.",
+            "I understand how overwhelming social situations can be. Let's work together to find ways to manage your social anxiety.",
+            "Gradually exposing yourself to social situations can help desensitize your anxiety.",
+            "Practice relaxation techniques like deep breathing or progressive muscle relaxation before social events.",
+            "Setting realistic goals for social interactions can help build confidence over time.",
+            "Challenge negative thoughts and replace them with more realistic and positive ones.",
+            "Focus on the present moment rather than worrying about what others may think.",
+            "Seek support from understanding friends or a therapist who specializes in anxiety.",
+            "Joining support groups or classes can provide a supportive environment to practice social skills.",
+            "Remember, it's okay to take breaks or step away if you feel overwhelmed in social situations."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "phobias",
+        "patterns": [
+            "I have specific phobias",
+            "How can I overcome my fears?",
+            "I need help with my phobias",
+            "I'm scared of [specific phobia]",
+            "What should I do about my phobia?",
+            "How do I face my fears?",
+            "I feel overwhelmed by my phobia",
+            "I'm struggling with [specific phobia]",
+            "I want to conquer my fears",
+            "What are the steps to overcome a phobia?"
+        ],
+        "responses": [
+            "Facing your fears is a courageous step. I'm here to support you. Let's talk about techniques to gradually overcome your phobias.",
+            "You're not alone in this. Let's discuss strategies to help you conquer your specific fears.",
+            "Gradual exposure therapy can help desensitize you to your phobia over time.",
+            "Learning relaxation techniques such as deep breathing or progressive muscle relaxation can help manage anxiety related to your phobia.",
+            "Challenge negative thoughts and replace them with more realistic and positive ones.",
+            "Seeking support from a therapist who specializes in phobias can provide guidance and personalized treatment.",
+            "Consider joining a support group to connect with others who are facing similar challenges.",
+            "Visualizing yourself facing and overcoming your phobia can help build confidence.",
+            "Using systematic desensitization, starting with less intimidating situations and gradually progressing, can be effective.",
+            "Remember, progress may take time and it's okay to go at your own pace."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "body_dysmorphic_disorder",
+        "patterns": [
+            "I have body dysmorphic disorder",
+            "How can I cope with BDD?",
+            "I struggle with body image",
+            "I feel obsessed with my appearance",
+            "I'm unhappy with my body",
+            "What can I do about Body Dysmorphic Disorder?",
+            "How do I manage BDD?",
+            "I need help with my body image issues",
+            "I'm always critical of my looks",
+            "I'm worried about my physical flaws"
+        ],
+        "responses": [
+            "Coping with Body Dysmorphic Disorder can be a journey. I'm here to help. Let's talk about strategies to improve your relationship with your body.",
+            "You're not alone in this. Let's explore ways to support you in managing Body Dysmorphic Disorder.",
+            "Challenge negative thoughts about your appearance with more balanced and realistic perspectives.",
+            "Consider cognitive-behavioral therapy (CBT), which is effective in treating BDD.",
+            "Limiting excessive mirror checking or grooming behaviors can help reduce anxiety related to appearance.",
+            "Practice self-compassion and kindness toward yourself, recognizing that your worth is not solely defined by your appearance.",
+            "Engaging in activities that focus on your strengths and talents can help shift your focus away from perceived flaws.",
+            "Discuss medication options with a healthcare professional, as certain medications may help manage symptoms of BDD.",
+            "Connect with support groups or online communities where you can share experiences and receive support from others with BDD.",
+            "Seeking help from a mental health professional who specializes in BDD can provide personalized guidance and support."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "eating_disorders",
+        "patterns": [
+            "I'm dealing with an eating disorder",
+            "How can I get help for my eating disorder?",
+            "I need support with my eating habits",
+            "I struggle with disordered eating",
+            "What should I do about my eating disorder?",
+            "How do I talk to someone about my eating habits?",
+            "I'm worried about my relationship with food",
+            "I feel guilty after eating",
+            "I binge eat and then feel ashamed",
+            "How can I improve my eating habits?"
+        ],
+        "responses": [
+            "Dealing with an eating disorder requires professional help. I'm here to support you in seeking treatment and finding resources.",
+            "You're not alone in this. Let's discuss ways to get the help and support you need for your eating disorder.",
+            "Consider reaching out to a therapist who specializes in eating disorders for guidance and support.",
+            "It's important to prioritize your health and well-being. Seeking treatment from a healthcare professional is crucial.",
+            "Explore support groups or online communities where you can connect with others who understand what you're going through.",
+            "Practice self-compassion and be patient with yourself as you navigate recovery from an eating disorder.",
+            "Learning to identify and challenge negative thoughts about food and body image can be part of the healing process.",
+            "Creating a balanced meal plan with the guidance of a nutritionist or dietitian can support healthy eating habits.",
+            "Engage in activities that promote body positivity and self-care to foster a healthy relationship with food and your body.",
+            "Remember, recovery from an eating disorder is possible with the right support and treatment."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "parenting_stress",
+        "patterns": [
+            "I'm feeling stressed as a parent",
+            "How can I cope with parenting stress?",
+            "I need support with parenting",
+            "Parenting is overwhelming me",
+            "I'm struggling with being a parent",
+            "How do I manage stress as a parent?",
+            "Parenting is hard",
+            "I feel burnt out from parenting",
+            "I'm anxious about my parenting abilities",
+            "I need help balancing parenting and life"
+        ],
+        "responses": [
+            "Parenting can be challenging. I'm here to offer support and guidance. Let's talk about ways to manage your parenting stress.",
+            "You're not alone in feeling this way. Let's explore techniques to help you navigate the challenges of parenting.",
+            "Practice self-care regularly to replenish your energy and maintain emotional well-being.",
+            "Connecting with other parents through support groups or online forums can provide reassurance and helpful tips.",
+            "Setting realistic expectations for yourself as a parent can help alleviate feelings of stress and pressure.",
+            "Delegate tasks when possible and ask for help from your partner, family, or friends to share the responsibilities of parenting.",
+            "Use relaxation techniques such as deep breathing, mindfulness, or yoga to reduce stress levels.",
+            "Identify and challenge unhelpful thoughts or beliefs about parenting that contribute to your stress.",
+            "Seeking guidance from a parenting counselor or therapist can provide personalized strategies for managing parenting stress.",
+            "Remember, taking breaks and prioritizing your own well-being is essential for effective parenting."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "self_harm",
+        "patterns": [
+            "I self-harm",
+            "How can I stop self-harming?",
+            "I need help with self-harm",
+            "I hurt myself",
+            "I cut myself",
+            "I'm struggling with self-injury",
+            "What should I do about self-harm?",
+            "I'm feeling overwhelmed and self-harming",
+            "I'm in pain and self-harming",
+            "I need support for self-injury"
+        ],
+        "responses": [
+            "I'm really sorry to hear that you're feeling this way. It's important to talk to someone who can offer immediate help. Please reach out to a mental health professional or a trusted person in your life.",
+            "I'm really sorry you're going through this, but I can't provide the help that you need. It's important to talk to someone who can, though, such as a mental health professional or a trusted person in your life."
+        ],
+        "context_set": ""
+    }
+    ,
+    {
+        "tag": "therapy_options",
+        "patterns": [
+            "What are my therapy options?",
+            "How can I find a therapist?",
+            "Where can I get therapy?",
+            "What types of therapy are available?",
+            "I need help finding a therapist",
+            "How do I choose the right therapist?",
+            "What is the best therapy for me?",
+            "Can therapy help with [specific issue]?",
+            "I'm looking for therapy near me",
+            "Are there free therapy options available?"
+        ],
+        "responses": [
+            "There are various therapy options available, including cognitive-behavioral therapy (CBT), psychodynamic therapy, mindfulness-based therapy, and more. It's important to find the one that suits you best. You can start by looking for local therapists or using online platforms for virtual sessions.",
+            "Therapy options can vary widely depending on your needs and preferences. Some common types include cognitive-behavioral therapy (CBT), which focuses on changing negative thought patterns; psychodynamic therapy, which explores unconscious patterns and past experiences; and mindfulness-based therapy, which incorporates mindfulness practices to manage stress and improve well-being. It's essential to research and find a therapist who specializes in the approach that fits your specific needs.",
+            "Finding a therapist involves several steps: 1) Identify your therapy needs and preferences. 2) Search for therapists in your area using online directories or platforms. 3) Read therapist profiles and reviews to understand their specialties and approach. 4) Contact potential therapists to inquire about their availability, fees, and approach to therapy. 5) Schedule an initial consultation to assess whether you feel comfortable and confident in their expertise.",
+            "Yes, therapy can help address a wide range of issues such as anxiety, depression, relationship problems, trauma, grief, and more. Different types of therapy may be more effective for specific issues, so it's beneficial to discuss your concerns with a therapist who can recommend the most suitable approach.",
+            "There are options for free or low-cost therapy services available through community health centers, universities with psychology departments, nonprofit organizations, and online platforms that offer sliding-scale fees based on income. It's important to explore these resources if cost is a concern.",
+            "Choosing the right therapist involves considering factors such as their expertise in treating your specific concerns, their approach to therapy, their availability, and whether you feel comfortable and understood during sessions. Trust your instincts and take time to find a therapist who feels like the right fit for you."
+        ],
+        "context_set": ""
+    }
+    ,
+        {
+            "tag": "medication",
+            "patterns": [
+                "Should I consider medication?",
+                "What are my options for medication?",
+                "How can I discuss medication with my doctor?",
+                "Is medication right for me?",
+                "I'm considering medication",
+                "What types of medications are used for mental health?",
+                "How do I know if medication is necessary?",
+                "When should I think about taking medication?",
+                "Can medication help with my symptoms?",
+                "How does medication work?"
+            ],
+            "responses": [
+                "Deciding on medication is a personal choice. It's important to consult a mental health professional who can provide guidance based on your specific situation. They can discuss the potential benefits and risks with you.",
+                "Medication options for mental health may include antidepressants, anti-anxiety medications, mood stabilizers, and others. Your doctor will consider your symptoms and medical history to recommend the most suitable option.",
+                "Discussing medication with your doctor involves sharing your symptoms, concerns, and goals for treatment. Your doctor can provide information about how medications work, potential side effects, and alternative treatments."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "workplace_stress",
+            "patterns": [
+                "I'm dealing with workplace stress",
+                "How can I manage stress at work?",
+                "I need support with my job-related stress",
+                "My job is stressing me out",
+                "Work is overwhelming me",
+                "How do I cope with stress in the workplace?",
+                "Workplace stress is affecting my health",
+                "I feel anxious about work",
+                "I'm struggling with work-related anxiety",
+                "My workload is too much to handle"
+            ],
+            "responses": [
+                "Workplace stress is common, but it's important to address it. Let's explore strategies to manage stress in your work environment. It's also recommended to discuss your feelings with your supervisor or HR department.",
+                "Managing stress at work involves identifying stressors, setting boundaries, prioritizing tasks, and practicing self-care. Seeking support from colleagues, mentors, or a workplace counselor can also be beneficial."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "postpartum_depression",
+            "patterns": [
+                "I think I have postpartum depression",
+                "How can I get help for postpartum depression?",
+                "I need support as a new parent",
+                "What are the signs of postpartum depression?",
+                "How do I know if I have postpartum depression?",
+                "Postpartum depression symptoms",
+                "I'm struggling after having a baby",
+                "I feel overwhelmed as a new parent",
+                "Help for new moms with depression",
+                "Support for postpartum mental health"
+            ],
+            "responses": [
+                "Postpartum depression is a serious concern. It's crucial to seek help from a healthcare provider or mental health professional who can provide the support and resources you need. You're not alone in this.",
+                "Seeking help for postpartum depression is important for your well-being and the well-being of your baby. Reach out to your healthcare provider or a therapist who specializes in postpartum mental health."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "grief_support",
+            "patterns": [
+                "I'm dealing with grief",
+                "How can I cope with loss?",
+                "I need support for grieving",
+                "My loved one passed away and I'm struggling",
+                "How do I handle the loss of a loved one?",
+                "Coping with grief and sadness",
+                "Support for mourning",
+                "Dealing with the death of someone close to me",
+                "I feel overwhelmed by grief",
+                "Grieving the loss of a family member"
+            ],
+            "responses": [
+                "Grief is a complex process. I'm here to support you. Let's talk about ways to navigate through your feelings of loss and find healthy coping mechanisms.",
+                "Coping with loss can be incredibly challenging. It's important to allow yourself time to grieve and seek support from loved ones or a grief counselor. Remember, there is no right or wrong way to grieve."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "obsessive_compulsive_disorder",
+            "patterns": [
+                "I have OCD",
+                "How can I manage my obsessive thoughts?",
+                "I need help with OCD",
+                "What are some OCD coping strategies?",
+                "Obsessive thoughts are overwhelming me",
+                "How do I deal with compulsions?",
+                "Living with OCD is hard",
+                "I'm struggling with intrusive thoughts",
+                "Help for obsessive-compulsive disorder",
+                "OCD is affecting my daily life"
+            ],
+            "responses": [
+                "Dealing with Obsessive-Compulsive Disorder can be challenging. I'm here to support you. Let's talk about techniques to manage and reduce obsessive thoughts.",
+                "You're not alone in this. Let's explore strategies to help you cope with OCD, such as cognitive-behavioral therapy (CBT), exposure and response prevention (ERP), and mindfulness techniques."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "gender_identity",
+            "patterns": [
+                "I'm struggling with my gender identity",
+                "How can I navigate my gender identity?",
+                "I need support with my gender journey",
+                "Help with understanding my gender identity",
+                "Gender identity confusion",
+                "Gender dysphoria support",
+                "Exploring my gender identity",
+                "I'm questioning my gender",
+                "Gender identity resources",
+                "Support for transgender individuals"
+            ],
+            "responses": [
+                "Navigating your gender identity is an important and personal journey. I'm here to support you. Let's talk about your feelings and explore resources that can help you on your journey.",
+                "You're not alone in this. Let's discuss ways to navigate your gender identity and find a supportive community. Consider reaching out to LGBTQ+ organizations or a gender-affirming therapist who can provide guidance and support."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "academic_stress",
+            "patterns": [
+                "I'm feeling stressed about school or academics",
+                "How can I manage academic pressure?",
+                "I need support with my studies",
+                "School stress is overwhelming me",
+                "Managing academic workload",
+                "Dealing with exam stress",
+                "I'm struggling with my coursework",
+                "Help with academic pressure",
+                "School is stressing me out",
+                "How do I handle academic stress?"
+            ],
+            "responses": [
+                "Academic stress is common, but it's important to address it. Let's explore strategies to manage the pressure and find a healthy balance in your academic life. It's also recommended to seek support from teachers or academic advisors.",
+                "Managing academic pressure involves setting realistic goals, prioritizing tasks, practicing time management, and maintaining a healthy lifestyle. Don't hesitate to reach out to teachers, counselors, or peers for assistance."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "financial_stress",
+            "patterns": [
+                "I'm dealing with financial stress",
+                "How can I cope with financial pressure?",
+                "I need support with my financial situation",
+                "Financial worries are overwhelming me",
+                "Help with money problems",
+                "I'm struggling with my finances",
+                "Managing financial stress",
+                "Dealing with debt stress",
+                "Budgeting help",
+                "Support for financial difficulties"
+            ],
+            "responses": [
+                "Financial stress can be overwhelming. I'm here to help. Let's discuss ways to manage your financial situation and explore resources that can offer support and guidance.",
+                "Coping with financial pressure involves creating a budget, prioritizing expenses, seeking financial advice, and exploring options like debt management. Remember, seeking support from financial advisors or counselors can also be beneficial."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "identity_crisis",
+            "patterns": [
+                "I'm going through an identity crisis",
+                "How can I navigate my identity crisis?",
+                "I need support with my sense of self",
+                "Struggling with my identity",
+                "Feeling lost in who I am",
+                "Help with self-discovery",
+                "Identity confusion",
+                "Finding myself",
+                "Exploring my identity",
+                "Dealing with identity issues"
+            ],
+            "responses": [
+                "Experiencing an identity crisis is a significant challenge. I'm here to support you. Let's talk about your feelings and explore strategies to help you navigate through this period of self-discovery.",
+                "Navigating an identity crisis involves self-reflection, exploring interests and values, and seeking support from friends, family, or a therapist. Remember, it's okay to take time to understand and embrace your evolving sense of self."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "academic_procrastination",
+            "patterns": [
+                "I procrastinate with my studies",
+                "How can I overcome academic procrastination?",
+                "I need help with time management",
+                "Dealing with study procrastination",
+                "Help with procrastinating on homework",
+                "I keep delaying my schoolwork",
+                "Struggling to start studying",
+                "Time management for students",
+                "Improving study habits",
+                "Avoiding procrastination"
+            ],
+            "responses": [
+                "Overcoming academic procrastination is possible. Let's explore techniques to improve your time management and study habits. Setting realistic goals can also be helpful in staying on track.",
+                "Managing academic procrastination involves breaking tasks into smaller steps, creating a study schedule, minimizing distractions, and using techniques like the Pomodoro Technique. Don't hesitate to seek support from teachers or peers."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "phobia_management",
+            "patterns": [
+                "How can I manage my specific phobia?",
+                "I need help overcoming my fear",
+                "I struggle with specific fears",
+                "Help with my phobia",
+                "Managing my fear",
+                "Phobia treatment options",
+                "Conquering specific fears",
+                "Fear management techniques",
+                "Support for phobias",
+                "Dealing with specific fears"
+            ],
+            "responses": [
+                "Managing specific phobias is an important step towards your well-being. Let's talk about techniques to gradually overcome your fears and regain control.",
+                "You're not alone in this. Let's explore strategies to help you confront and manage your specific phobia. Techniques like exposure therapy and relaxation exercises can be beneficial."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "spirituality",
+            "patterns": [
+                "I'm seeking spiritual guidance",
+                "How can I find peace through spirituality?",
+                "I need support in my spiritual journey",
+                "Help with spiritual beliefs",
+                "Exploring my spirituality",
+                "Finding meaning through spirituality",
+                "Spiritual guidance needed",
+                "Seeking inner peace",
+                "Support for spiritual growth",
+                "Connecting with higher power"
+            ],
+            "responses": [
+                "Exploring spirituality can be a meaningful part of your mental health journey. Let's talk about your spiritual beliefs and how they can contribute to your overall well-being.",
+                "You're not alone in your spiritual journey. Let's discuss ways to find peace and meaning through your beliefs. Practices like meditation, prayer, and connecting with a community can also support your spiritual growth."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "impostor_syndrome",
+            "patterns": [
+                "I struggle with impostor syndrome",
+                "How can I overcome feelings of inadequacy?",
+                "I need support with self-doubt",
+                "Help with impostor feelings",
+                "Dealing with self-doubt",
+                "Overcoming impostor syndrome",
+                "Recognizing my achievements",
+                "Coping with feeling inadequate",
+                "Support for feeling like a fraud",
+                "Managing impostor feelings"
+            ],
+            "responses": [
+                "Dealing with impostor syndrome can be challenging. I'm here to support you. Let's talk about techniques to recognize and overcome feelings of self-doubt.",
+                "You're not alone in this. Let's explore strategies to help you gain confidence and recognize your own achievements. Reflecting on your strengths and setting realistic goals can also be beneficial."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "exercise_mental_health",
+            "patterns": [
+                "How does exercise affect mental health?",
+                "I want to improve my mental health through exercise",
+                "I need guidance on incorporating exercise for mental well-being",
+                "Benefits of exercise for mental health",
+                "Exercise and emotional well-being",
+                "Improving mental health with physical activity",
+                "Exercise routines for mental well-being",
+                "Exercise and stress relief",
+                "Physical activity and mental health",
+                "Incorporating exercise into my mental health plan"
+            ],
+            "responses": [
+                "Exercise can have a positive impact on mental health. Let's discuss how incorporating physical activity can benefit your overall well-being and explore suitable exercise routines."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "mindfulness_practices",
+            "patterns": [
+                "I want to practice mindfulness",
+                "How can mindfulness help with mental well-being?",
+                "I need guidance on mindfulness techniques",
+                "Benefits of mindfulness practices",
+                "Mindfulness and stress reduction",
+                "Improving focus through mindfulness",
+                "Mindfulness exercises for beginners",
+                "Cultivating mindfulness in daily life",
+                "Mindfulness for anxiety relief",
+                "Practicing mindfulness meditation"
+            ],
+            "responses": [
+                "Mindfulness practices can be incredibly beneficial for mental well-being. By cultivating present-moment awareness and embracing non-judgmental acceptance, mindfulness can help reduce stress, improve focus, and enhance overall emotional resilience."
+            ],
+            "context_set": ""
+        }
+        ,
+        {
+            "tag": "positive_affirmations",
+            "patterns": [
+                "I want to use positive affirmations",
+                "How can positive affirmations improve my mindset?",
+                "I need guidance on creating affirmations",
+                "Benefits of positive affirmations",
+                "Using affirmations for self-esteem",
+                "Practicing daily affirmations",
+                "Creating effective affirmations",
+                "Affirmations for confidence building",
+                "How affirmations impact mental health",
+                "Positive self-talk techniques"
+            ],
+            "responses": [
+                "Positive affirmations can be a powerful tool for improving your mindset. They help replace negative self-talk with positive, empowering statements. Let's discuss how to create personalized affirmations that resonate with you, and how to integrate them into your daily routine for greater self-confidence and positivity."
+            ],
+            "context_set": ""
+        }
+    ]
+}

@@ -1,0 +1,1650 @@
+{"intents": [
+    {"tag": "Cuts",
+    "patterns": [
+            "What to do if Cuts?",
+            "How to cure Cuts?",
+            "Which medicine to apply for Cuts?",
+            "What to apply on cuts?",
+            "Cuts",
+            "How to treat a cut?",
+            "Best way to heal a cut?",
+            "First aid for cuts?",
+            "How to stop bleeding from a cut?",
+            "Remedies for cuts?",
+            "Steps to handle a cut?",
+            "What should I do if I get a cut?",
+            "How to take care of a cut?",
+            "What's the first thing to do for a cut?",
+            "How to clean a cut?",
+            "How to bandage a cut?",
+            "What's the best treatment for cuts?",
+            "How to make a cut heal faster?",
+            "What ointment to use on a cut?",
+            "How to reduce pain from a cut?",
+            "How to avoid infection in a cut?",
+            "Should I use antiseptic on a cut?",
+            "How to handle minor cuts?",
+            "How to deal with a deep cut?",
+            "What are the steps to treat a cut at home?",
+            "Can I use a band-aid on a cut?",
+            "How to prevent scarring from a cut?"
+    ],
+    "responses": [
+            "Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2 minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied."
+    ],
+    "context_set": ""
+    },
+
+    {
+    "tag": "Abrasions",
+    "patterns": [
+            "How do you treat abrasions?",
+            "Do abrasions cause scars?",
+            "Abrasions",
+            "What to do if abrasions?",
+            "Which medicine to apply for abrasions?",
+            "How to cure abrasions?",
+            "How to take care of abrasions?",
+            "Best way to heal abrasions?",
+            "First aid for abrasions?",
+            "How to clean an abrasion?",
+            "Remedies for abrasions?",
+            "Steps to handle abrasions?",
+            "What should I do if I get an abrasion?",
+            "How to reduce pain from abrasions?",
+            "What ointment to use on abrasions?",
+            "How to prevent infection in abrasions?",
+            "How to treat scraped skin?",
+            "What is the best treatment for abrasions?",
+            "How to make abrasions heal faster?",
+            "Can abrasions get infected?",
+            "How to avoid scarring from abrasions?",
+            "Should I cover an abrasion?",
+            "How to deal with a road rash?",
+            "How to handle minor abrasions?",
+            "What are the steps to treat abrasions at home?",
+            "Is it necessary to see a doctor for abrasions?"
+    ],
+    "responses": [
+            "Begin with washed hands. Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers. For a mild scrape that’s not bleeding, leave the wound uncovered. If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding. Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day. Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection."
+    ],
+    "context_set": ""
+    },
+
+    {
+            "tag": "stings",
+            "patterns": [
+                "How do you treat a sting?",
+                "Stings",
+                "What to do if you get a sting?",
+                "Which medicine to apply if stung?",
+                "How to treat insect stings?",
+                "What to apply on stings?",
+                "How to relieve sting pain?",
+                "Best way to handle a sting?",
+                "First aid for stings?",
+                "How to reduce swelling from a sting?",
+                "Remedies for stings?",
+                "Steps to take after a sting?",
+                "What should I do if I get stung?",
+                "How to treat a bee sting?",
+                "How to handle a wasp sting?",
+                "How to stop itching from stings?",
+                "What ointment to use on stings?",
+                "How to prevent infection from a sting?",
+                "How to take care of a sting at home?",
+                "How to deal with multiple stings?",
+                "What to do for a severe sting reaction?",
+                "Should I see a doctor for a sting?",
+                "How to clean a sting site?",
+                "How to reduce redness from a sting?",
+                "What antihistamines are good for stings?",
+                "How to apply ice to a sting?"
+            ],
+            "responses": [
+                "Remove any stingers immediately. Some experts recommend scraping out the stinger with a credit card. Applying ice to the site may provide some mild relief. Apply ice for 20 minutes once every hour as needed. Wrap the ice in a towel or keep a cloth between the ice and skin to keep from freezing the skin. Taking an antihistamine such as diphenhydramine (Benadryl) or a nonsedating one such as loratadine (Claritin) will help with itching and swelling. Take acetaminophen (Tylenol) or ibuprofen (Motrin) for pain relief as needed. Wash the sting site with soap and water. Placing hydrocortisone cream on the sting can help relieve redness, itching, and swelling."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "Splinter",
+            "patterns": [
+                "How to remove splinters?",
+                "How to cure splinters?",
+                "What to do if I have splinters?",
+                "How do you bring a splinter to the surface?",
+                "Best way to remove a splinter?",
+                "How to treat a splinter?",
+                "How to get rid of a splinter?",
+                "How to draw out a splinter?",
+                "Steps to take if you have a splinter?",
+                "What should I do if I get a splinter?",
+                "How to take out a splinter?",
+                "How to handle splinters?",
+                "How to get a deep splinter out?",
+                "How to remove tiny splinters?",
+                "Home remedies for splinters?",
+                "First aid for splinters?",
+                "How to deal with a stubborn splinter?",
+                "How to prevent infection from a splinter?",
+                "How to use Epsom salts for splinters?",
+                "Does vinegar help remove splinters?",
+                "What oil to use for splinters?",
+                "How long to soak a splinter?",
+                "How to safely remove a splinter?",
+                "What tools to use for splinter removal?",
+                "How to reduce pain from a splinter?"
+            ],
+            "responses": [
+                "1. SOAK IT IN EPSOM SALTS. Dissolve a cup of the salts into a warm bath and soak whatever part of the body has the splinter. Failing that, you can also put some of the salts onto a bandage pad and leave it covered for a day; this will eventually help bring the splinter to the surface. 2. VINEGAR OR OIL. Another simple way to draw out that stubborn splinter is to soak the affected area in oil (olive or corn) or white vinegar. Just pour some in a bowl and soak the area for around 20 to 30 minutes."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Sprains",
+            "patterns": [
+                "How do you treat a sprain?",
+                "What to do if I get a sprain?",
+                "Which cream to apply if I get a sprain?",
+                "Which medicine to apply if I get a sprain?",
+                "Best way to treat a sprain?",
+                "How to manage a sprain?",
+                "What to do for a sprained ankle?",
+                "How to relieve sprain pain?",
+                "First aid for sprains?",
+                "How to reduce swelling from a sprain?",
+                "Remedies for sprains?",
+                "Steps to take after a sprain?",
+                "What should I do if I sprain my ankle?",
+                "How to treat a wrist sprain?",
+                "How to handle a knee sprain?",
+                "How to stop pain from a sprain?",
+                "What ointment to use on a sprain?",
+                "How to prevent sprain complications?",
+                "How to take care of a sprain at home?",
+                "How to deal with a severe sprain?",
+                "What to do for a minor sprain?",
+                "Should I see a doctor for a sprain?",
+                "How to wrap a sprain?",
+                "How to support a sprained joint?",
+                "How long does it take for a sprain to heal?",
+                "What is the RICE method for sprains?"
+            ],
+            "responses": [
+                "Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat every two to three hours while you're awake. To help stop swelling, compress the ankle with an elastic bandage until the swelling stops. In most cases, pain relievers — such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve, others) or acetaminophen (Tylenol, others) are enough to manage the pain of a sprained ankle."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Strains",
+            "patterns": [
+                "How do you treat a strain?",
+                "What to do if I get a strain?",
+                "Which cream to apply if I get a strain?",
+                "Which medicine to apply if I get a strain?",
+                "How do you diagnose a strain?",
+                "Is heat or ice better for a pulled muscle?",
+                "Best way to treat a muscle strain?",
+                "How to manage a muscle strain?",
+                "What to do for a strained muscle?",
+                "How to relieve strain pain?",
+                "First aid for muscle strains?",
+                "How to reduce swelling from a strain?",
+                "Remedies for muscle strains?",
+                "Steps to take after a strain?",
+                "What should I do if I strain my muscle?",
+                "How to treat a back strain?",
+                "How to handle a leg strain?",
+                "How to stop pain from a strain?",
+                "What ointment to use on a strain?",
+                "How to prevent strain complications?",
+                "How to take care of a muscle strain at home?",
+                "How to deal with a severe strain?",
+                "What to do for a minor muscle strain?",
+                "Should I see a doctor for a strain?",
+                "How to wrap a strained muscle?",
+                "How to support a strained muscle?",
+                "How long does it take for a strain to heal?",
+                "What is the RICE method for muscle strains?"
+            ],
+            "responses": [
+                "Rest, Ice, Compression, and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also apply ice immediately after injuring your muscle. This will minimize swelling. Don’t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Fever",
+            "patterns": [
+                "How do you treat a mild fever?",
+                "What to do if I get a mild fever?",
+                "Which medicine to take if I get a mild fever?",
+                "Fever",
+                "How to reduce a fever?",
+                "What to do for a low-grade fever?",
+                "Best way to manage a fever?",
+                "How to handle a fever at home?",
+                "What should I do if I have a mild fever?",
+                "How to bring down a fever?",
+                "Remedies for mild fever?",
+                "How to treat a slight fever?",
+                "Steps to take for a mild fever?",
+                "What is the best medicine for a mild fever?",
+                "How to stay comfortable with a fever?",
+                "How to treat a fever without medicine?",
+                "How to stay hydrated with a fever?",
+                "What should I drink if I have a fever?",
+                "Should I use a blanket if I have a fever?",
+                "How to know if a fever is serious?",
+                "When to see a doctor for a fever?",
+                "How long should a mild fever last?",
+                "What to avoid when you have a fever?",
+                "How to sleep with a fever?",
+                "How to monitor a mild fever?"
+            ],
+            "responses": [
+                "To treat a fever at home: 1) Drink plenty of fluids to stay hydrated. 2) Dress in lightweight clothing. 3) Use a light blanket if you feel chilled, until the chills end. 4) Take acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others). 5) Get medical help if the fever lasts more than five days in a row."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Nasal Congestion",
+            "patterns": [
+                "How do you treat nasal congestion?",
+                "What to do if I get nasal congestion?",
+                "Which medicine to take if I have nasal congestion?",
+                "What to do if I have a blocked nose?",
+                "How do you treat a blocked nose?",
+                "How long does nasal congestion last?",
+                "Best way to clear a stuffy nose?",
+                "What to do for a congested nose?",
+                "How to relieve nasal congestion?",
+                "How to manage a blocked nose?",
+                "How to get rid of nasal congestion quickly?",
+                "What to do for sinus congestion?",
+                "How to reduce nasal congestion?",
+                "How to handle nasal congestion at home?",
+                "Remedies for a stuffy nose?",
+                "How to open up a blocked nose?",
+                "What helps nasal congestion?",
+                "How to treat nasal congestion naturally?",
+                "How to stay comfortable with nasal congestion?",
+                "What should I avoid if I have nasal congestion?",
+                "How to prevent nasal congestion?",
+                "How to decongest my nose?",
+                "How to treat a blocked sinus?",
+                "What should I drink for nasal congestion?",
+                "Should I use a nasal spray for congestion?"
+            ],
+            "responses": [
+                "When you’re stuffed up, focus on keeping your nasal passages and sinuses moist. To keep your nasal passages moist, you can: 1) Use a humidifier or vaporizer. 2) Drink lots of fluids. This will thin out your mucus, which could help prevent blocked sinuses. 3) Place a warm, wet towel on your face. It may relieve discomfort and open your nasal passages."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Cough",
+            "patterns": [
+                "How to cure cough?",
+                "How do you treat a cough?",
+                "What to do if I get a cough?",
+                "Which medicine to take if I get a cough?",
+                "How do you get rid of a cough?",
+                "Best way to stop coughing?",
+                "What to do for a persistent cough?",
+                "How to soothe a cough?",
+                "How to manage a cough at home?",
+                "What should I do if I have a bad cough?",
+                "How to treat a dry cough?",
+                "What to do for a wet cough?",
+                "Home remedies for a cough?",
+                "How to reduce coughing?",
+                "How to treat a cough naturally?",
+                "How to stop a nighttime cough?",
+                "What helps with a chronic cough?",
+                "What should I drink for a cough?",
+                "How to make a cough go away?",
+                "How to handle a tickly cough?",
+                "How to calm a cough?",
+                "What is the best syrup for a cough?",
+                "How to take care of a cough?",
+                "How long should a cough last?",
+                "When should I see a doctor for a cough?",
+                "How to relieve a sore throat from coughing?"
+            ],
+            "responses": [
+                "1) Honey: Use honey to treat a cough, mix 2 teaspoons (tsp) with warm water or an herbal tea. Drink this mixture once or twice a day. Do not give honey to children under 1 year of age. 2) Ginger: Brew up a soothing ginger tea by adding 20–40 grams (g) of fresh ginger slices to a cup of hot water. Allow to steep for a few minutes before drinking. Add honey or lemon juice to improve the taste and further soothe a cough. 3) Fluids: Staying hydrated is vital for those with a cough or cold. Research indicates that drinking liquids at room temperature can alleviate a cough, runny nose, and sneezing."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Sore Throat",
+            "patterns": [
+                "How do you treat a sore throat?",
+                "What to do if I get a sore throat?",
+                "Which medicine to take if I get a sore throat?",
+                "How to cure a sore throat?",
+                "Best way to treat a sore throat?",
+                "How to relieve sore throat pain?",
+                "What to do for a sore throat?",
+                "How to soothe a sore throat?",
+                "How to manage a sore throat at home?",
+                "What should I do if I have a sore throat?",
+                "How to get rid of a sore throat quickly?",
+                "Home remedies for a sore throat?",
+                "How to reduce sore throat symptoms?",
+                "How to treat a sore throat naturally?",
+                "What to drink for a sore throat?",
+                "How to stop a sore throat?",
+                "How to heal a sore throat?",
+                "What helps with a sore throat?",
+                "How to treat a scratchy throat?",
+                "What is the best remedy for a sore throat?",
+                "How to calm a sore throat?",
+                "How to take care of a sore throat?",
+                "How long does a sore throat last?",
+                "When should I see a doctor for a sore throat?",
+                "What to eat with a sore throat?",
+                "How to relieve a sore throat fast?"
+            ],
+            "responses": [
+                "1) Make sure you get plenty of rest and drink a lot of fluids. 2) Inhale steam by running hot water in a sink. Drape a towel over your head to trap the steam, and lean over the sink with the water running. Breathe deeply through your mouth and nose for 5 to 10 minutes. Repeat several times a day. 3) Sip chicken broth or warm tea with honey. Don’t give honey to a child under 12 months of age."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Gastrointestinal problems",
+            "patterns": [
+                "How do you treat gas problems?",
+                "What to do if I have gastrointestinal problems?",
+                "Which medicine to take if I get a gas problem?",
+                "How to cure gas problems?",
+                "Best way to manage gastrointestinal problems?",
+                "How to handle gas problems?",
+                "What should I do if I have stomach issues?",
+                "How to relieve gas pain?",
+                "How to manage bloating?",
+                "How to treat indigestion?",
+                "How to prevent stomach discomfort?",
+                "Home remedies for gas problems?",
+                "What to eat for gastrointestinal health?",
+                "How to alleviate stomach cramps?",
+                "How to improve digestion?",
+                "How to avoid acid reflux?",
+                "What to do for constipation?",
+                "How to handle diarrhea?",
+                "How to soothe an upset stomach?",
+                "What to drink for digestive issues?",
+                "How to deal with gastrointestinal discomfort?",
+                "Should I see a doctor for stomach problems?",
+                "How to treat stomach pain?",
+                "What foods to avoid for gas problems?",
+                "How to relieve abdominal pain?"
+            ],
+            "responses": [
+                "1) Replenish body fluids 2) Do not take antidiarrheal drugs or laxatives or pain medication, unless specified by a medical professional. 3) Taking antacids may help, per recommendation of a healthcare professional. 4) If prone to frequent heartburns, seek medical help. 5) Taking meals that are not spicy regularly, can relieve ulcer pains. 6) Seek medical help, if conditions persist or continue to worsen."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Skin problems",
+            "patterns": [
+                "How do you treat skin problems?",
+                "What to do if I get a skin allergy?",
+                "Which medicine to take if I get a skin allergy?",
+                "How to cure a skin allergy?",
+                "Best way to manage skin problems?",
+                "How to handle a skin rash?",
+                "What should I do if I have a skin reaction?",
+                "How to relieve skin irritation?",
+                "How to treat eczema?",
+                "How to soothe itchy skin?",
+                "Home remedies for skin problems?",
+                "How to prevent skin allergies?",
+                "What to apply for skin irritation?",
+                "How to reduce redness on skin?",
+                "How to heal a skin rash?",
+                "How to deal with hives?",
+                "What helps with dermatitis?",
+                "How to manage dry skin?",
+                "What to do for insect bites?",
+                "How to treat poison ivy rash?",
+                "Should I see a dermatologist for skin issues?",
+                "How to care for sensitive skin?",
+                "How to prevent skin infections?",
+                "How to handle acne breakouts?",
+                "How to treat sunburn?",
+                "How to manage psoriasis?"
+            ],
+            "responses": [
+                "1) Hydrocortisone cream. 2) Ointments like calamine lotion. 3) Antihistamines. 4) Cold compresses. 5) Oatmeal baths. 6) Talk to your doctor about what's best for your specific rash."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Abdominal Pain",
+            "patterns": [
+                "How do you treat abdominal pain?",
+                "What to do if I get abdominal pain?",
+                "Which medicine to take if I get abdominal pain?",
+                "How to cure abdominal pain?",
+                "Best way to manage abdominal pain?",
+                "How to relieve stomach pain?",
+                "What should I do if I have stomach cramps?",
+                "How to soothe abdominal discomfort?",
+                "How to handle digestive pain?",
+                "Home remedies for abdominal pain?",
+                "What to eat for stomach ache?",
+                "How to prevent abdominal discomfort?",
+                "How to alleviate bloating?",
+                "How to manage indigestion?",
+                "How to treat constipation pain?",
+                "How to deal with diarrhea cramps?",
+                "What helps with gas pains?",
+                "How to care for stomach upset?",
+                "How to reduce stomach ache?",
+                "What to drink for abdominal pain?",
+                "How to ease intestinal discomfort?",
+                "Should I see a doctor for severe abdominal pain?",
+                "How to handle stomach flu symptoms?",
+                "How to relieve lower abdominal pain?",
+                "How to treat upper abdominal pain?"
+            ],
+            "responses": [
+                "1) Provide clear fluids to sip, such as water, broth, or fruit juice diluted with water. 2) Serve bland foods, such as saltine crackers, plain bread, dry toast, rice, gelatin, or applesauce. 3) Avoid spicy or greasy foods and caffeinated or carbonated drinks until 48 hours after all symptoms have gone away."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Bruises",
+            "patterns": [
+                "How do you treat bruises?",
+                "What to do if I get a bruise?",
+                "Which medicine to take if I get a bruise?",
+                "How to cure bruises?",
+                "Best way to manage bruises?",
+                "How to relieve bruising?",
+                "What should I do if I have a bruise?",
+                "How to reduce bruise swelling?",
+                "How to handle bruise pain?",
+                "Home remedies for bruises?",
+                "How to heal a bruise quickly?",
+                "What helps with bruise discoloration?",
+                "How to prevent bruises?",
+                "How to treat a bad bruise?",
+                "How to soothe bruise tenderness?",
+                "How to get rid of a bruise?",
+                "How to care for a fresh bruise?",
+                "How to alleviate bruise discomfort?",
+                "How to heal bruise marks?",
+                "Should I use heat or ice for a bruise?",
+                "When should I see a doctor for a bruise?",
+                "How long do bruises last?",
+                "What ointment is good for bruises?",
+                "How to prevent bruising easily?",
+                "How to protect bruised skin?"
+            ],
+            "responses": [
+                "1) Ice the bruise with an ice pack wrapped in a towel. 2) Leave it in place for 10 to 20 minutes. 3) Repeat several times a day for a day or two as needed. 4) Compress the bruised area if it is swelling, using an elastic bandage."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Broken Toe",
+            "patterns": [
+                "How do you treat a broken toe?",
+                "What to do if I have a broken toe?",
+                "Which medicine to take if I get a broken toe?",
+                "How to cure a broken toe?",
+                "Best way to manage a broken toe?",
+                "How to handle toe injuries?",
+                "What should I do if I suspect a broken toe?",
+                "How to reduce pain from a broken toe?",
+                "How to care for a fractured toe?",
+                "Home remedies for a broken toe?",
+                "How to immobilize a broken toe?",
+                "What helps with broken toe swelling?",
+                "How to prevent complications from a broken toe?",
+                "How to treat a toe fracture?",
+                "How long does it take for a broken toe to heal?",
+                "When should I see a doctor for a broken toe?",
+                "How to know if a toe is broken?",
+                "How to protect a broken toe?",
+                "What to avoid with a broken toe?",
+                "How to speed up broken toe recovery?",
+                "What to wear with a broken toe?",
+                "How to wrap a broken toe?",
+                "How to manage broken toe pain?",
+                "Should I splint a broken toe?",
+                "How to care for a broken toenail?"
+            ],
+            "responses": [
+                "1) To help decrease pain and swelling in a broken toe, elevate the foot, ice the injury, and stay off the foot. 2) Depending on the severity of the fracture, the toe may need to be put back into place (reduced), and some compound toe fractures may require surgery. 3) Most broken toes heal without complications in six weeks."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Choking",
+            "patterns": [
+                "How do you treat choking?",
+                "What to do if I'm choking?",
+                "Which medicine to take if I'm choking?",
+                "How to handle choking?",
+                "Best way to manage choking?",
+                "How to relieve choking?",
+                "What should I do if someone is choking?",
+                "How to help someone who is choking?",
+                "What to do for a choking emergency?",
+                "How to perform abdominal thrusts?",
+                "How to clear a blocked airway?",
+                "Home remedies for choking?",
+                "What helps with choking sensation?",
+                "How to prevent choking accidents?",
+                "How to save someone from choking?",
+                "When should I call 911 for choking?",
+                "How to perform the Heimlich maneuver?",
+                "How to assist a choking child?",
+                "How to handle food choking?",
+                "How to react if someone is choking?",
+                "How to remove a lodged object from throat?",
+                "How to stay calm during a choking incident?",
+                "What are the signs of choking?",
+                "What to do if someone is choking and unconscious?",
+                "How to perform back blows?"
+            ],
+            "responses": [
+                "1) Encourage them to keep coughing to try to clear the blockage. 2) Ask them to try to spit out the object if it's in their mouth. 3) If coughing doesn't work, start back blows and abdominal thrusts."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Wound",
+            "patterns": [
+                "How do you treat a wound?",
+                "What to do if I get a wound?",
+                "Which medicine to take if I get wounded?",
+                "How to cure a wound?",
+                "Best way to manage wounds?",
+                "How to handle cuts?",
+                "What should I do if I have a deep wound?",
+                "How to clean a wound?",
+                "How to dress a wound?",
+                "Home remedies for wounds?",
+                "How to prevent infection in wounds?",
+                "What helps with wound healing?",
+                "How to bandage a wound?",
+                "How to care for stitches?",
+                "How to treat a bleeding wound?",
+                "How to deal with a puncture wound?",
+                "When should I see a doctor for a wound?",
+                "How to manage wound pain?",
+                "How to care for a wound at home?",
+                "What to apply on a wound?",
+                "How to heal a cut fast?",
+                "How to treat a dog bite wound?",
+                "How to stop bleeding from a wound?",
+                "How to handle an infected wound?",
+                "What ointment is good for wounds?"
+            ],
+            "responses": [
+                "1) Rinse the cut or wound with water and apply pressure with sterile gauze, a bandage, or a clean cloth. 2) If blood soaks through the bandage, place another bandage on top of the first and keep applying pressure. 3) Raise the injured body part to slow bleeding. 4) When bleeding stops, cover the wound with a new, clean bandage."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Diarrhea",
+            "patterns": [
+                "How do you treat diarrhea?",
+                "What to do if I have diarrhea?",
+                "Which medicine to take if I get diarrhea?",
+                "How to cure diarrhea?",
+                "Best way to manage diarrhea?",
+                "How to relieve diarrhea symptoms?",
+                "What should I do if I get sudden diarrhea?",
+                "How to handle stomach upset?",
+                "Home remedies for diarrhea?",
+                "How to prevent dehydration from diarrhea?",
+                "What helps with diarrhea cramps?",
+                "How to treat traveler's diarrhea?",
+                "What foods to avoid with diarrhea?",
+                "How to manage loose stools?",
+                "How to stop diarrhea fast?",
+                "How to care for someone with diarrhea?",
+                "When should I see a doctor for diarrhea?",
+                "How to recover from diarrhea?",
+                "How to stop diarrhea naturally?",
+                "What to drink for diarrhea relief?",
+                "How to prevent diarrhea when traveling?",
+                "How to soothe upset stomach and diarrhea?",
+                "Should I take probiotics for diarrhea?",
+                "How to treat diarrhea in children?",
+                "What medication is good for diarrhea?"
+            ],
+            "responses": [
+                "1) Hydrating the body is essential for recovering from diarrhea. This causes the body to lose electrolytes such as sodium and chloride. 2) It is highly recommended to avoid dairy products, as they may worsen diarrhea in some people. 3) However, if diarrhea lasts for more than 2 days, seek medical advice to avoid complications."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Frostbite",
+            "patterns": [
+                "How do you treat frostbite?",
+                "What to do if I get frostbite?",
+                "Which medicine to take if I get frostbite?",
+                "How to cure frostbite?",
+                "Best way to manage frostbite?",
+                "How to handle frostbite injuries?",
+                "What should I do if I suspect frostbite?",
+                "How to warm frostbitten skin?",
+                "Home remedies for frostbite?",
+                "How to prevent frostbite?",
+                "What helps with frostbite pain?",
+                "How to treat frostnip?",
+                "When should I seek medical help for frostbite?",
+                "How to care for frostbitten fingers?",
+                "How to thaw frostbitten toes?",
+                "How to relieve frostbite numbness?",
+                "How to protect skin from frostbite?",
+                "What to wear to prevent frostbite?",
+                "How to treat severe frostbite?",
+                "How to manage frostbite blisters?",
+                "How to prevent frostbite on face?",
+                "How to care for frostbitten ears?",
+                "How to avoid frostbite in cold weather?",
+                "How to heal frostbitten skin?",
+                "How to prevent frostbite while skiing?"
+            ],
+            "responses": [
+                "1) Get out of the cold. Once you're in a warm space, remove wet clothes and wrap up in a warm blanket. 2) Gently rewarm frostbitten areas. Soak frostbitten fingers, toes, or other extremities in warm water — 105 to 110 F (about 40 to 43 C). If a thermometer isn't available, test the water by placing an uninjured hand or elbow in it — it should feel very warm, not hot. Soak for 20 to 30 minutes or until the skin becomes its normal color or loses its numbness. For the face or ears, apply a warm, wet washcloth."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Heat Exhaustion",
+            "patterns": [
+                "How do you treat heat exhaustion?",
+                "What to do if I have heat exhaustion?",
+                "Which medicine to take if I get heat exhaustion?",
+                "How to cure heat exhaustion?",
+                "Best way to manage heat exhaustion?",
+                "How to handle heat exhaustion symptoms?",
+                "What should I do if I feel exhausted due to heat?",
+                "How to cool down from heat exhaustion?",
+                "Home remedies for heat exhaustion?",
+                "How to prevent heat exhaustion?",
+                "What helps with heat exhaustion recovery?",
+                "How to treat heat stress?",
+                "When should I seek medical help for heat exhaustion?",
+                "How to stay hydrated in hot weather?",
+                "How to avoid heat exhaustion?",
+                "How to care for someone with heat exhaustion?",
+                "How to prevent heat stroke?",
+                "How to handle heat-related illness?",
+                "How to recover from heat exhaustion quickly?",
+                "What to drink for heat exhaustion relief?",
+                "How to manage overheating?",
+                "How to treat heat exhaustion in children?",
+                "How to stay safe in hot weather?",
+                "How to protect against heat exhaustion?",
+                "How to cool off in extreme heat?"
+            ],
+            "responses": [
+                "1) Move the person out of the heat and into a shady or air-conditioned place. Lay the person down and elevate the legs and feet slightly. Remove tight or heavy clothing. Have the person drink cool water or other nonalcoholic beverage without caffeine."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Heat Stroke",
+            "patterns": [
+                "How do you treat heat stroke?",
+                "What to do if I have heat stroke?",
+                "Which medicine to take if I get heat stroke?",
+                "How to cure heat stroke?",
+                "Best way to manage heat stroke?",
+                "How to handle heat stroke symptoms?",
+                "What should I do if I feel heat stroke symptoms?",
+                "How to cool down from heat stroke?",
+                "Home remedies for heat stroke?",
+                "How to prevent heat stroke?",
+                "What helps with heat stroke recovery?",
+                "How to treat severe heat stroke?",
+                "When should I seek medical help for heat stroke?",
+                "How to stay hydrated in hot weather?",
+                "How to avoid heat stroke?",
+                "How to care for someone with heat stroke?",
+                "How to prevent heat exhaustion from progressing to heat stroke?",
+                "How to recognize heat stroke signs?",
+                "How to manage heat-related illness?",
+                "How to recover from heat stroke quickly?",
+                "What to drink for heat stroke relief?",
+                "How to handle heat stroke emergency?",
+                "How to treat heat stroke in children?",
+                "How to stay safe in extreme heat?",
+                "How to protect against heat stroke?"
+            ],
+            "responses": [
+                "1) Cool the person's entire body by sponging or spraying cold water, and fan the person to help lower their body temperature. Watch for signs of rapidly progressing heatstroke, such as seizure, unconsciousness for longer than a few seconds, and moderate to severe difficulty breathing."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Insect Bites",
+            "patterns": [
+                "How do you treat insect bites?",
+                "What to do if I have an insect bite?",
+                "Which medicine to take if I get bitten by an insect?",
+                "How to cure insect bites?",
+                "Best way to manage insect bites?",
+                "How to handle bug bites?",
+                "What should I do if I'm bitten by an insect?",
+                "How to relieve insect bite itching?",
+                "Home remedies for insect bites?",
+                "How to prevent insect bites?",
+                "What helps with insect bite swelling?",
+                "How to treat mosquito bites?",
+                "When should I seek medical help for insect bites?",
+                "How to stop itching from insect bites?",
+                "How to handle bee stings?",
+                "How to treat spider bites?",
+                "How to soothe ant bites?",
+                "How to manage tick bites?",
+                "How to remove a tick properly?",
+                "How to prevent insect bites at night?",
+                "How to care for insect bites on children?",
+                "What ointment is good for insect bites?",
+                "How to avoid allergic reactions to insect bites?",
+                "How to identify insect bites?",
+                "How to reduce swelling from insect bites?"
+            ],
+            "responses": [
+                "1) Wash the affected area with soap and water. Apply a cold compress (such as a flannel or cloth cooled with cold water) or an ice pack to any swelling for at least 10 minutes. Raise or elevate the affected area if possible, as this can help reduce swelling."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "nose bleed",
+            "patterns": [
+                "How do you treat a nosebleed?",
+                "What to do if I have a nosebleed?",
+                "Which medicine to take if I get a nosebleed?",
+                "How to cure nosebleeding?",
+                "Best way to manage nosebleeds?",
+                "How to handle a bleeding nose?",
+                "What should I do if my nose is bleeding?",
+                "How to stop nosebleed?",
+                "Home remedies for nosebleeds?",
+                "How to prevent nosebleeds?",
+                "What helps with frequent nosebleeds?",
+                "How to treat a severe nosebleed?",
+                "When should I seek medical help for nosebleeds?",
+                "How to stop a bloody nose?",
+                "How to care for children with nosebleeds?",
+                "How to prevent dry nasal passages?",
+                "How to relieve nosebleed pain?",
+                "How to manage recurrent nosebleeds?",
+                "How to handle nosebleeds in hot weather?",
+                "How to stop nosebleeds at night?",
+                "What to do after a nosebleed stops?",
+                "How to avoid nosebleeds in dry climate?",
+                "How to stop nosebleeds due to allergies?",
+                "How to treat nosebleeds caused by trauma?",
+                "How to care for nosebleeds during pregnancy?"
+            ],
+            "responses": [
+                "1) Wash the affected area with soap and water. Apply a cold compress (such as a flannel or cloth cooled with cold water) or an ice pack to any swelling for at least 10 minutes. Raise or elevate the affected area if possible, as this can help reduce swelling."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Pulled Muscle",
+            "patterns": [
+                "How do you treat pulled muscles?",
+                "What to do if I have a pulled muscle?",
+                "Which medicine to take if I get a pulled muscle?",
+                "How to cure pulled muscles?",
+                "Best way to manage pulled muscles?",
+                "How to handle muscle strains?",
+                "What should I do if my muscle is pulled?",
+                "How to relieve pulled muscle pain?",
+                "Home remedies for pulled muscles?",
+                "How to prevent muscle strains?",
+                "What helps with muscle strain recovery?",
+                "How to treat a severe muscle strain?",
+                "When should I seek medical help for muscle strains?",
+                "How to prevent muscle injuries?",
+                "How to care for pulled muscles?",
+                "How to recover from muscle strain quickly?",
+                "How to reduce swelling from muscle strains?",
+                "How to manage strained muscles?",
+                "How to avoid muscle strain while exercising?",
+                "How to soothe sore muscles?"
+            ],
+            "responses": [
+                "1) Apply ice for 10 to 15 minutes every 1 hour for the first day and every 3 to 4 hours after that. Use ice for the first 3 days. After 3 days, either heat or ice may be helpful if you still have pain. Rest the pulled muscle for at least a day."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Rectal bleeding",
+            "patterns": [
+                "How do you treat rectal bleeding?",
+                "What to do if I have rectal bleeding?",
+                "Which medicine to take if I get rectal bleeding?",
+                "How to cure rectal bleeding?",
+                "Best way to manage rectal bleeding?",
+                "How to handle bleeding from rectum?",
+                "What should I do if I'm bleeding from rectum?",
+                "How to stop rectal bleeding?",
+                "Home remedies for rectal bleeding?",
+                "How to prevent rectal bleeding?",
+                "What helps with rectal bleeding recovery?",
+                "How to treat severe rectal bleeding?",
+                "When should I seek medical help for rectal bleeding?",
+                "How to manage hemorrhoids?",
+                "How to care for rectal fissures?",
+                "How to prevent bleeding in the rectal area?",
+                "How to relieve rectal bleeding pain?",
+                "How to handle rectal bleeding emergencies?",
+                "How to soothe rectal bleeding discomfort?",
+                "How to stop bleeding from hemorrhoids?",
+                "What to do after rectal bleeding stops?",
+                "How to avoid complications from rectal bleeding?",
+                "How to treat rectal bleeding in children?",
+                "How to stay hydrated with rectal bleeding?",
+                "How to manage blood loss from rectal bleeding?"
+            ],
+            "responses": [
+                "1) For minimal bleeding due to hemorrhoids or rectal fissures, physicians will usually direct home treatment with lots of water, ice packs and possibly over the counter ointments or suppositories to create movement in the bowels or to soften the stool. Emergency treatment might include an IV in the case of dehydration."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Sun Burn",
+            "patterns": [
+                "How do you treat sunburn?",
+                "What to do if I have sunburn?",
+                "Which medicine to take if I get sunburn?",
+                "How to cure sunburn?",
+                "Best way to manage sunburn?",
+                "How to handle a sunburn?",
+                "What should I do if I'm sunburned?",
+                "How to relieve sunburn pain?",
+                "Home remedies for sunburn?",
+                "How to prevent sunburn?",
+                "What helps with sunburn recovery?",
+                "How to treat severe sunburn?",
+                "When should I seek medical help for sunburn?",
+                "How to prevent peeling from sunburn?",
+                "How to soothe sunburned skin?",
+                "How to care for sunburned skin?",
+                "How to avoid sunburn?",
+                "How to protect against sunburn?",
+                "How to recover from sunburn quickly?",
+                "How to manage sunburn blisters?",
+                "How to treat sunburn on face?",
+                "How to relieve itching from sunburn?",
+                "How to heal sunburn overnight?",
+                "How to reduce redness from sunburn?"
+            ],
+            "responses": [
+                "1) Cool the skin.",
+                "2) Drink water to prevent dehydration.",
+                "3) Take a pain reliever such as ibuprofen (Advil, Motrin IB, others) to help with the discomfort and swelling of sunburn."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Testicle Pain",
+            "patterns": [
+                "How do you treat testicle pain?",
+                "What to do if I have testicle pain?",
+                "Which medicine to take if I get testicle pain?",
+                "How to cure testicle pain?",
+                "Best way to manage testicle pain?",
+                "How to handle pain in testicles?",
+                "What should I do if I'm experiencing testicular pain?",
+                "How to relieve testicle pain?",
+                "Home remedies for testicle pain?",
+                "How to prevent testicle pain?",
+                "What helps with testicle pain recovery?",
+                "How to treat severe testicle pain?",
+                "When should I seek medical help for testicle pain?",
+                "How to prevent testicular injuries?",
+                "How to care for testicle injuries?",
+                "How to manage testicle discomfort?",
+                "How to avoid testicle pain?",
+                "How to protect against testicle pain?",
+                "How to recover from testicle pain quickly?",
+                "How to reduce swelling in testicles?",
+                "How to soothe testicle pain?"
+            ],
+            "responses": [
+                "1) For pain, take over-the-counter medication such as acetaminophen (Tylenol) or ibuprofen (Advil, Motrin). For swelling, apply an ice pack to the scrotum."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Vertigo",
+            "patterns": [
+                "How do you treat vertigo?",
+                "What to do if I have vertigo?",
+                "Which medicine to take if I get vertigo?",
+                "How to cure vertigo?",
+                "Best way to manage vertigo?",
+                "How to handle vertigo attacks?",
+                "What should I do if I'm experiencing vertigo?",
+                "How to relieve vertigo symptoms?",
+                "Home remedies for vertigo?",
+                "How to prevent vertigo?",
+                "What helps with vertigo recovery?",
+                "How to treat severe vertigo?",
+                "When should I seek medical help for vertigo?",
+                "How to manage dizziness from vertigo?",
+                "How to care for someone with vertigo?",
+                "How to avoid vertigo triggers?",
+                "How to protect against vertigo?",
+                "How to recover from vertigo quickly?",
+                "How to reduce vertigo attacks?",
+                "How to cope with vertigo symptoms?"
+            ],
+            "responses": [
+                "1) Relieve or prevent dizziness. Have the person lie down and rest.",
+                "2) Keep the person safe. Help the person avoid falls.",
+                "3) Call a health care provider. Any new signs and symptoms of vertigo should be checked by a health care provider."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Normal Bleeding",
+            "patterns": [
+                "How do you treat normal bleeding?",
+                "What to do if I have normal bleeding?",
+                "Which medicine to take if I get normal bleeding?",
+                "How to cure normal bleeding?",
+                "Best way to manage normal bleeding?",
+                "How to handle bleeding?",
+                "What should I do if I'm bleeding?",
+                "How to stop normal bleeding?",
+                "Home remedies for normal bleeding?",
+                "How to prevent normal bleeding?",
+                "What helps with normal bleeding recovery?",
+                "How to treat severe bleeding?",
+                "When should I seek medical help for bleeding?",
+                "How to manage blood loss?",
+                "How to care for wounds?",
+                "How to avoid bleeding injuries?",
+                "How to protect against bleeding?",
+                "How to recover from bleeding quickly?",
+                "How to reduce bleeding?",
+                "How to handle cuts and wounds?"
+            ],
+            "responses": [
+                "1) First aid actions to manage external bleeding include applying direct pressure to the wound, maintaining the pressure using pads and bandages, and raising the injured limb above the level of the heart if possible."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Eye Injury",
+            "patterns": [
+                "How do you treat an eye injury?",
+                "What to do if I have an eye injury?",
+                "Which medicine to take if I injured my eye?",
+                "How to cure an injured eye?",
+                "Best way to manage an eye injury?",
+                "How to handle eye injuries?",
+                "What should I do if I'm experiencing an eye injury?",
+                "How to relieve eye injury symptoms?",
+                "Home remedies for eye injury?",
+                "How to prevent eye injuries?",
+                "What helps with eye injury recovery?",
+                "How to treat severe eye injury?",
+                "When should I seek medical help for an eye injury?",
+                "How to care for eye injuries?",
+                "How to avoid eye injuries?",
+                "How to protect against eye injuries?",
+                "How to recover from an eye injury quickly?",
+                "How to reduce swelling in an injured eye?",
+                "How to manage pain from an eye injury?"
+            ],
+            "responses": [
+                "1) DO NOT rub the eye.",
+                "2) Blink several times and allow tears to flush out the particle.",
+                "3) Lift the upper eyelid over the lashes of your lower lid to let the eyelashes try to brush the particle out.",
+                "4) Use eyewash, saline solution, or running tap water to flush the eye out."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Chemical Burn",
+            "patterns": [
+                "How do you treat a chemical burn?",
+                "What to do if I have a chemical burn?",
+                "Which medicine to take if I get a burn due to chemicals?",
+                "How to cure a chemical burn?",
+                "Best way to manage a chemical burn?",
+                "How to handle chemical burns?",
+                "What should I do if I'm experiencing a chemical burn?",
+                "Home remedies for chemical burns?",
+                "How to prevent chemical burns?",
+                "What helps with chemical burn recovery?",
+                "How to treat severe chemical burns?",
+                "When should I seek medical help for a chemical burn?",
+                "How to care for chemical burns?",
+                "How to avoid chemical burn injuries?",
+                "How to protect against chemical burns?",
+                "How to recover from a chemical burn quickly?",
+                "How to reduce pain from a chemical burn?",
+                "How to manage skin damage from a chemical burn?"
+            ],
+            "responses": [
+                "1) Rinse the affected area with water for at least 20 minutes.",
+                "2) Remove any clothing or jewelry that may have the chemical on it.",
+                "3) Avoid using a strong stream of water if possible.",
+                "4) Do not try to neutralize the burn with acid or alkali.",
+                "5) Do not apply antibiotic ointment to the burn."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Poison",
+            "patterns": [
+                "How do you treat poisoning?",
+                "What to do if I have poisoning?",
+                "Which medicine to take if I am poisoned?",
+                "How to cure poisoning?",
+                "Best way to manage poisoning?",
+                "How to handle poison exposure?",
+                "What should I do if I'm poisoned?",
+                "Home remedies for poisoning?",
+                "How to prevent poisoning?",
+                "What helps with poisoning recovery?",
+                "How to treat severe poisoning?",
+                "When should I seek medical help for poisoning?",
+                "How to care for someone who has been poisoned?",
+                "How to avoid poisoning?",
+                "How to protect against poisoning?",
+                "How to recover from poisoning quickly?",
+                "How to reduce effects of poisoning?",
+                "How to manage symptoms of poisoning?"
+            ],
+            "responses": [
+                "1) Get to fresh air right away. Call the toll-free Poison Help line (1-800-222-1222), which connects you to your local poison center.",
+                "2) Take off any clothing the poison touched. Rinse skin with running water for 15 to 20 minutes. Call the toll-free Poison Help line (1-800-222-1222), which connects you to your local poison center.",
+                "3) If the person swallowed the wrong medicine or too much medicine: Call Poison Help (1-800-222-1222), which connects you to your local poison center.",
+                "4) Every poisoning is different."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Teeth",
+            "patterns": [
+                "How to treat a broken tooth?",
+                "What should I do if my tooth is broken?",
+                "Which medicine should I take for a broken tooth?",
+                "How do I cure a broken tooth?",
+                "How to handle a broken tooth?",
+                "What to do if my tooth breaks?",
+                "Emergency care for a broken tooth?",
+                "How to manage a broken tooth?",
+                "How to prevent complications from a broken tooth?",
+                "First aid for a broken tooth?",
+                "What helps with pain from a broken tooth?",
+                "How to care for a chipped tooth?",
+                "Steps to take after a tooth breaks?",
+                "How to protect a broken tooth?",
+                "How to avoid damage to a broken tooth?",
+                "How to handle a knocked-out tooth?"
+            ],
+            "responses": [
+                "1) If it's dirty, lick the tooth clean or rinse it in water. Put it back into position (adult teeth only); never try to re-insert a baby tooth (see below). Bite on a handkerchief to hold the tooth in place. Go to see a dentist as an emergency."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "seizure",
+            "patterns": [
+                "What are the first aid steps for a seizure?",
+                "How to help someone having a seizure?",
+                "Which medication is used for treating seizures?",
+                "How do you manage a seizure?",
+                "How to assist during a seizure?",
+                "What should I do if someone has a seizure?",
+                "Steps to take during a seizure?",
+                "How to respond to a seizure?",
+                "What actions should be taken for a seizure?",
+                "How to support someone having a seizure?",
+                "Emergency care for seizures?",
+                "What to do if a seizure lasts longer than usual?",
+                "How to handle seizures?",
+                "How to prevent injuries during a seizure?",
+                "How to care for someone after a seizure?"
+            ],
+            "responses": [
+                "1) Stay calm and remain with the person.",
+                "2) If they have food or fluid in their mouth, roll them onto their side immediately.",
+                "3) Place something soft under their head and loosen any tight clothing."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Head Injury",
+            "patterns": [
+                "What are the first aid steps for a head injury?",
+                "How to manage a head injury?",
+                "What to do if someone has a head injury?",
+                "Which medication is used for treating head injuries?",
+                "How do you assist with a head injury?",
+                "Steps to take during a head injury?",
+                "How to respond to a head injury?",
+                "What actions should be taken for a head injury?",
+                "Emergency care for head injuries?",
+                "How to prevent complications from a head injury?",
+                "How to care for someone after a head injury?"
+            ],
+            "responses": [
+                "1) Apply firm pressure to the wound with sterile gauze or a clean cloth. But don't apply direct pressure to the wound if you suspect a skull fracture."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Fainting",
+            "patterns": [
+                "How to help someone who has fainted?",
+                "What are the first aid steps for fainting?",
+                "How do you assist someone who fainted?",
+                "What to do if someone faints?",
+                "Which medication is used for treating fainting?",
+                "How to manage fainting episodes?",
+                "How to prevent fainting?",
+                "Emergency response for fainting?",
+                "Steps to take during a fainting episode?",
+                "What actions should be taken for fainting?",
+                "How to care for someone after fainting?"
+            ],
+            "responses": [
+                "1) Lie down or sit down. To reduce the chance of fainting again, don't get up too quickly. 2) Place your head between your knees if you sit down. 3) Position the person on their back. If there are no injuries and the person is breathing, raise their legs above heart level — about 12 inches (30 centimeters) — if possible. Loosen belts, collars, or other constrictive clothing."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Headache",
+            "patterns": [
+                "How do you treat a mild Headache?",
+                "what to do if i get a mild Headache?",
+                "Which medicine to take if I have a mild headache?",
+                "How to cure a mild headache?",
+                "How do you treat a severe Headache?",
+                "What are natural remedies for Headaches?",
+                "How can I prevent Headaches?",
+                "How long do Headaches usually last?",
+                "What causes frequent Headaches?",
+                "Can stress cause Headaches?",
+                "What foods trigger Headaches?",
+                "Are there any exercises to relieve Headaches?",
+                "How does sleep affect Headaches?",
+                "How to manage Headaches at work?"
+            ],
+            "responses": [
+                "Give ibuprofen (Advil, Motrin), aspirin, or acetaminophen (Tylenol) for pain. Avoid ibuprofen and other NSAIDs if the person has heart failure or kidney failure. Do not give aspirin to a child under age 18."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Cold",
+            "patterns": [
+                "How do you treat a Cold?",
+                "what to do if i get a mild Cold?",
+                "Which medicine to take if I have a Cold?",
+                "How to cure Cold?",
+                "How long does a Cold usually last?",
+                "What are the symptoms of a Cold?",
+                "Can you prevent catching a Cold?",
+                "Is it safe to exercise with a Cold?",
+                "What foods should you eat when you have a Cold?",
+                "Should I stay home from work or school with a Cold?",
+                "Can you get a Cold from being cold?",
+                "How does rest help when you have a Cold?",
+                "Are there any home remedies for a Cold?"
+            ],
+            "responses": [
+                "1) Keeping hydrated is absolutely vital to help 'flush' out the cold, as well as to break down congestion and keep your throat lubricated. 2) Vitamin C is extremely helpful when fighting infection, so at the first sign of a cold be sure to increase your intake by eating plenty of berries, citrus fruits, papayas, broccoli and red peppers which will help keep you protected. 3) When it comes to combating a cold, Vitamin D is essential in helping to regulate immune response."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Rash",
+            "patterns": [
+                "How do you treat Rashes?",
+                "what to do if i get a Rash?",
+                "Which medicine to take if I have a Rash?",
+                "How to cure Rash?",
+                "What causes skin rashes?",
+                "Are there different types of rashes?",
+                "Can stress cause rashes?",
+                "What are the symptoms of an allergic rash?",
+                "When should I see a doctor for a rash?",
+                "How can I prevent rashes?",
+                "What home remedies can help relieve itching from a rash?",
+                "Is it safe to scratch a rash?",
+                "Can certain foods cause skin rashes?"
+            ],
+            "responses": [
+                "1) Olive oil helps in healing and promotes skin renewal as it is packed with vitamin E and antioxidants. It also soothes the skin and reduces itching. 2) Baking soda is useful in drying skin rashes and relieving itching and inflammation. 3) Aloe Vera, thanks to its antibacterial, antifungal, anti-inflammatory, and emollient properties, is excellent for treating a number of skin ailments including rashes and soothing the skin."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "snake bite",
+            "patterns": [
+                "How do you treat a snake bite?",
+                "what to do if i get a snake bite?",
+                "Which medicine to take if I get a snake bite?",
+                "How to cure snake bite?",
+                "i got bit by a snake",
+                "What are the symptoms of a snake bite?",
+                "How quickly do you need medical attention after a snake bite?",
+                "Should I try to catch or kill the snake?",
+                "What should I not do if bitten by a snake?",
+                "Can you die from a snake bite?",
+                "How can you identify the type of snake that bit you?",
+                "Are there any first aid kits specifically for snake bites?",
+                "What is antivenom and how does it work?",
+                "How do you prevent snake bites?",
+                "Can snakes strike underwater?",
+                "What should I do if my pet is bitten by a snake?"
+            ],
+            "responses": [
+                "While waiting for medical help: 1) Move the person beyond striking distance of the snake. 2) Have the person lie down with the wound below the heart. 3) Keep the person calm and at rest, remaining as still as possible to keep venom from spreading. 4) Cover the wound with a loose, sterile bandage. 5) Remove any jewelry from the area that was bitten. 6) Remove shoes if the leg or foot was bitten."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "snake bite",
+            "patterns": [
+                "How do you treat a snake bite?",
+                "what to do if i get a snake bite?",
+                "Which medicine to take if I get a snake bite?",
+                "How to cure snake bite?",
+                "i got bit by a snake",
+                "What are the symptoms of a snake bite?",
+                "How quickly do you need medical attention after a snake bite?",
+                "Should I try to catch or kill the snake?",
+                "What should I not do if bitten by a snake?",
+                "Can you die from a snake bite?",
+                "How can you identify the type of snake that bit you?",
+                "Are there any first aid kits specifically for snake bites?",
+                "What is antivenom and how does it work?",
+                "How do you prevent snake bites?",
+                "Can snakes strike underwater?",
+                "What should I do if my pet is bitten by a snake?"
+            ],
+            "responses": [
+                "While waiting for medical help: 1) Move the person beyond striking distance of the snake. 2) Have the person lie down with the wound below the heart. 3) Keep the person calm and at rest, remaining as still as possible to keep venom from spreading. 4) Cover the wound with a loose, sterile bandage. 5) Remove any jewelry from the area that was bitten. 6) Remove shoes if the leg or foot was bitten."
+            ],
+            "context_set": ""
+        }
+        ,
+
+        {
+            "tag": "Drowning",
+            "patterns": [
+                "What to do if someone is Drowning?",
+                "what to do if someone drowned?",
+                "What steps to take if i see a drowning person?",
+                "How to help a drowning person?",
+                "Emergency response for a drowning victim?",
+                "Steps to rescue a drowning person?",
+                "First aid for someone who has nearly drowned?",
+                "What actions to take if witnessing a drowning accident?",
+                "Can bystanders assist in a drowning emergency?",
+                "Importance of calling emergency services during a drowning incident?",
+                "What to do immediately after rescuing a drowning victim?",
+                "Should CPR be administered to a drowning victim?"
+            ],
+            "responses": [
+                "1) Place your ear next to the person's mouth and nose. Do you feel air on your cheek? 2) Look to see if the person's chest is moving. If the person is not breathing, check pulse. 3) Check the person's pulse for 10 seconds. If there is no pulse, start CPR."
+            ],
+            "context_set": ""
+        }
+        
+        ,
+
+        {
+            "tag": "CPR",
+            "patterns": [
+                "How to give CPR??",
+                "what to do in a CPR?",
+                "What steps to take in a CPR??",
+                "How to help a drowning person in CPR?",
+                "Steps for performing CPR on an adult?",
+                "What are the basics of performing CPR?",
+                "CPR techniques for cardiac arrest?",
+                "How to perform chest compressions in CPR?",
+                "Rescue breathing in CPR - how to do it?",
+                "Guidelines for performing CPR on children?",
+                "First aid for someone who has stopped breathing?",
+                "How to assist someone who is unconscious and not breathing?",
+                "Training in CPR - what does it involve?",
+                "Can anyone perform CPR?"
+            ],
+            "responses": [
+                "1) For an adult or child, place the heel of one hand on the center of the chest at the nipple line. You can also push with one hand on top of the other. For an infant, place two fingers on the breastbone.",
+                "2) For an adult or child, press down at least 2 inches. Make sure not to press on ribs. For an infant, press down about 1 and 1/2 inches. Make sure not to press on the end of the breastbone.",
+                "3) Do chest compressions only, at the rate of 100-120 per minute or more. Let the chest rise completely between pushes.",
+                "4) Check to see if the person has started breathing."
+            ],
+            "context_set": ""
+        }
+        
+        ,
+
+        {
+            "tag": "Fracture",
+            "patterns": [
+                "How do you treat a Fracture?",
+                "what to do if i get a Fracture?",
+                "Which medicine to take if I have a Fracture?",
+                "How to cure a Fracture?",
+                "I think I broke a bone, what should I do?",
+                "Steps to take if someone has a broken bone?",
+                "What are the first aid steps for a fracture?",
+                "Emergency treatment for a broken bone?",
+                "Fracture care tips?",
+                "How to help someone with a suspected fracture?",
+                "Fracture management techniques?"
+            ],
+            "responses": [
+                "1) Stop any bleeding. Apply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing.",
+                "2) Immobilize the injured area. Don't try to realign the bone or push a bone that's sticking out back in. If you've been trained in how to splint and professional help isn't readily available, apply a splint to the area above and below the fracture sites. Padding the splints can help reduce discomfort.",
+                "3) Apply ice packs to limit swelling and help relieve pain. Don't apply ice directly to the skin. Wrap the ice in a towel, piece of cloth or some other material.",
+                "4) Treat for shock. If the person feels faint or is breathing in short, rapid breaths, lay the person down with the head slightly lower than the trunk and, if possible, elevate the legs."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Burns",
+            "patterns": [
+                "How to treat Burns?",
+                "What to do if I get a Burn?",
+                "Which medicine to use for Burns?",
+                "How to cure Burns?",
+                "First aid for Burns?",
+                "Steps to take for a minor Burn?",
+                "What should I do if someone has a Burn?",
+                "Emergency response for Burn victims?",
+                "How to help someone with Burn injuries?",
+                "What actions should be taken for Burn victims?",
+                "Immediate care for Burn wounds?",
+                "How to manage Burns at home?",
+                "Should I apply ice to a Burn?",
+                "What not to do if someone has a Burn?"
+            ],
+            "responses": [
+                "1) Cool the Burn. Hold the burned area under cool (not cold) running water for 10-15 minutes or until the pain subsides. If this is not possible, apply a cool, clean, moist cloth to the Burn. 2) Remove Rings or Other Tight Items. Try to do this quickly and gently, before the Burn Swells. 3) Don't Break Blisters. Fluid-filled Blisters protect against infection. 4) Take over-the-counter pain reliever to help with pain and inflammation, if needed."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Allergies",
+            "patterns": [
+                "How can I relieve allergy symptoms?",
+                "What are common treatments for allergies?",
+                "Which medications are effective against allergies?",
+                "What are natural remedies for allergies?",
+                "How do you prevent allergic reactions?",
+                "What foods should I avoid if I have allergies?",
+                "Are there any home remedies for allergy relief?",
+                "When should I see an allergist?",
+                "What are the symptoms of an allergic reaction?",
+                "How do allergies affect the body?"
+            ],
+            "responses": [
+                "1) Take antihistamines like cetirizine or loratadine to reduce symptoms.",
+                "2) Avoid triggers such as pollen, pet dander, or certain foods.",
+                "3) Use nasal sprays or eye drops prescribed by your doctor.",
+                "4) Consider allergy shots (immunotherapy) for long-term relief.",
+                "5) Eat a balanced diet and stay hydrated to support immune health.",
+                "6) Keep your living space clean and free of allergens.",
+                "7) Consult an allergist for personalized diagnosis and treatment options.",
+                "8) Common allergic reactions include itching, hives, swelling, and difficulty breathing.",
+                "9) Allergies can cause inflammation, immune responses, and discomfort."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Heart Attack",
+            "patterns": [
+                "What are the symptoms of a heart attack?",
+                "How do you treat a heart attack?",
+                "What to do if someone has a heart attack?",
+                "Signs of a heart attack?",
+                "How to prevent a heart attack?",
+                "Heart attack",
+                "What are the risk factors for heart attack?",
+                "How to help someone having a heart attack?",
+                "First aid for heart attack?",
+                "Can heart attacks be fatal?",
+                "Heart attack treatment",
+                "How to recognize a heart attack?",
+                "What should I do during a heart attack?",
+                "What increases the risk of heart attack?",
+                "Emergency response for heart attack?",
+                "How to reduce the risk of heart attack?",
+                "What to avoid after a heart attack?",
+                "How long does a heart attack last?",
+                "Is chest pain always a heart attack?",
+                "Can stress cause heart attack?",
+                "How to know if it's a heart attack?",
+                "Heart attack prevention tips?",
+                "Can exercise prevent heart attack?",
+                "What lifestyle changes prevent heart attack?",
+                "Heart attack recovery tips?",
+                "Is a heart attack hereditary?"
+            ],
+            "responses": [
+                "If you suspect someone is having a heart attack, call emergency services immediately. Symptoms can include chest pain or discomfort, shortness of breath, nausea, lightheadedness, and discomfort in other areas of the upper body such as arms, back, neck, jaw, or stomach. While waiting for emergency services, make the person sit down and stay calm. If the person is not allergic to aspirin, have them chew and swallow a baby aspirin (about 81 mg) or an adult aspirin (about 325 mg) to help reduce the blood clotting. If the person is unconscious and not breathing, begin CPR and continue until emergency medical personnel arrive. Lifestyle changes like eating a healthy diet, regular exercise, managing stress, and quitting smoking can reduce the risk of a heart attack."
+            ],
+            "context_set": ""
+        },            
+        {
+            "tag": "Electrical Shock",
+            "patterns": [
+                "How to treat electrical shock?",
+                "What to do if I receive an electric shock?",
+                "Which medicine to take for electrical shock injuries?",
+                "How to prevent electrical injuries?",
+                "What are the first aid steps for electric shock?",
+                "Should I perform CPR if someone is electrocuted?",
+                "How do I safely disconnect power during an electrical accident?",
+                "What are the symptoms of electrical shock?",
+                "Can I use a defibrillator on someone who has been shocked?",
+                "Are there any home remedies for minor electrical burns?"
+            ],
+            "responses": [
+                "1) Disconnect the power source if it's safe to do so.",
+                "2) Check for breathing and perform CPR if necessary.",
+                "3) Cover burns with sterile dressings and seek medical attention.",
+                "4) Avoid touching the person if they are still in contact with the electrical source.",
+                "5) Prevent electrical injuries by using safety measures like insulation and grounding.",
+                "6) If someone is electrocuted, do not touch them until the power is turned off.",
+                "7) Use a non-conductive object to disconnect the power or turn off the circuit breaker.",
+                "8) Symptoms of electrical shock include burns, muscle contractions, and loss of consciousness.",
+                "9) Only use a defibrillator if the person is in cardiac arrest after an electrical shock.",
+                "10) For minor burns, apply cool, clean water to the affected area for at least 10 minutes."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Food Poisoning",
+            "patterns": [
+                "How to treat food poisoning?",
+                "What to do if I have food poisoning symptoms?",
+                "Which medicine to take for food poisoning?",
+                "How to recover from food poisoning?",
+                "What are the common symptoms of food poisoning?",
+                "Should I go to the hospital for food poisoning?",
+                "What foods should I avoid after food poisoning?",
+                "Are there any home remedies for food poisoning?",
+                "How long does food poisoning usually last?",
+                "Can I prevent food poisoning?",
+                "Is it safe to take anti-diarrheal medication for food poisoning?"
+            ],
+            "responses": [
+                "1) Stay hydrated by drinking clear fluids like water or electrolyte solutions.",
+                "2) Rest and avoid solid foods until symptoms improve.",
+                "3) Use over-the-counter medications for symptoms like diarrhea or nausea if needed.",
+                "4) Seek medical attention if symptoms persist for more than a few days or are severe.",
+                "5) Avoid dairy products, fatty foods, and caffeine until fully recovered.",
+                "6) Common symptoms of food poisoning include stomach cramps, diarrhea, vomiting, and fever.",
+                "7) You should consider going to the hospital if you have severe symptoms like dehydration, high fever, or bloody stools.",
+                "8) After food poisoning, avoid dairy, fatty foods, and spicy foods until your stomach is back to normal.",
+                "9) Home remedies for food poisoning may include ginger tea, probiotics, and clear broths to help settle the stomach.",
+                "10) Food poisoning symptoms typically last from a few hours to several days, depending on the cause and severity.",
+                "11) To prevent food poisoning, practice safe food handling, cook foods to safe temperatures, and wash hands and surfaces often.",
+                "12) It's generally safe to take anti-diarrheal medication for mild cases of food poisoning, but consult a doctor if symptoms worsen."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hypothermia",
+            "patterns": [
+                "How to treat hypothermia?",
+                "What to do if I am in cold weather and feel extremely cold?",
+                "Which medicine to take for hypothermia?",
+                "How to warm up from hypothermia?",
+                "What are the signs and symptoms of hypothermia?",
+                "How long does it take for hypothermia to set in?",
+                "Can hypothermia be fatal?",
+                "How does the body lose heat in cold weather?",
+                "What should I do if someone has hypothermia?",
+                "Are there any specific first aid steps for hypothermia?"
+            ],
+            "responses": [
+                "1) Move to a warm place and remove wet clothing.",
+                "2) Wrap in blankets or use warm, dry clothing to slowly warm the body.",
+                "3) Drink warm fluids, but avoid alcohol and caffeine.",
+                "4) Apply heat packs or warm compresses to the core areas of the body.",
+                "5) Seek medical attention if shivering persists or if symptoms are severe."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Heat Exhaustion",
+            "patterns": [
+                "How to treat heat exhaustion?",
+                "What to do if I have heat exhaustion symptoms?",
+                "Which medicine to take for heat exhaustion?",
+                "How to prevent heat-related illnesses?",
+                "What are the signs of heat exhaustion?",
+                "When is it necessary to seek medical help for heat exhaustion?",
+                "Can heat exhaustion lead to heatstroke?",
+                "What should I avoid during hot weather to prevent heat exhaustion?",
+                "Are there any specific first aid steps for heat exhaustion?",
+                "How long does it take to recover from heat exhaustion?"
+            ],
+            "responses": [
+                "1) Move to a cool place and rest.",
+                "2) Drink fluids, especially water or sports drinks with electrolytes.",
+                "3) Apply cool compresses or take a cool bath to lower body temperature.",
+                "4) Avoid strenuous activities and stay out of the sun during peak hours.",
+                "5) Seek medical attention if symptoms are severe or if heatstroke is suspected."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Concussion",
+            "patterns": [
+                "How to treat a concussion?",
+                "What to do if I have a head injury?",
+                "Which medicine to take for a concussion?",
+                "How to manage concussion symptoms?",
+                "What are the signs of a concussion?",
+                "When should I see a doctor after a head injury?",
+                "Can I sleep after a concussion?",
+                "How long does it take to recover from a concussion?",
+                "What activities should be avoided after a concussion?",
+                "Is it safe to drive after a concussion?"
+            ],
+            "responses": [
+                "1) Rest and avoid physical activities that could worsen symptoms.",
+                "2) Monitor for signs of worsening symptoms, such as headache or confusion.",
+                "3) Avoid medications like aspirin that can thin the blood.",
+                "4) Seek medical attention if symptoms persist or worsen."
+            ],
+            "context_set": ""
+        }           
+    ]
+}
