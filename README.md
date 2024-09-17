@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ___
 
 ## 🛠 Contributors
-1. Ananya Krishnan{https://github.com/4kananya/}
+1. [Ananya Krishnan](https://github.com/4kananya)
 2. Rudransh Jauhari{https://github.com/Rudransh0210/}
 
 ---
