@@ -52,15 +52,9 @@ pip install -r requirements.txt
 
 ___
 
-## 🛠 How to Use Locally
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate into the project folder: `cd <repository_folder>`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Update `firebase-config.json` with Firebase credentials.
-5. Set up Neo4j and update connection details in `build_medical_graph.py` and `answer_search.py` to ensure proper integration with the Neo4j database.
-6. Configure Twilio with Account SID, Auth Token, and phone number and update in `server.py`.
-7. Run the Flask server: `python server.py`
-8. Open `login.html` in your web browser to access the application.
+## 🛠 Contributors
+1. Ananya Krishnan{https://github.com/4kananya/}
+2. Rudransh Jauhari{https://github.com/Rudransh0210/}
 
 ---
 Here's our project demo video 
