@@ -54,7 +54,7 @@ ___
 
 ## 🛠 Contributors
 1. [Ananya Krishnan](https://github.com/4kananya)
-2. Rudransh Jauhari{https://github.com/Rudransh0210/}
+2. [Rudransh Jauhari](https://github.com/Rudransh0210)
 
 ---
 Here's our project demo video 
